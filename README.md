@@ -23,6 +23,6 @@ This repository contains my personal journey in football data analytics. It incl
 - Possibly collaborate with clubs and organizations
 
 ## 🚀 Author
-[Your Full Name]  
-[Your Email]  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+Ali MohammadKhanlou
+ali.khanlou.ml@gmail.com
+GitHub: [github.com/alikhanlou](https://github.com/alikhanlou)
