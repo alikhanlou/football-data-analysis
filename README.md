@@ -24,5 +24,7 @@ This repository contains my personal journey in football data analytics. It incl
 
 ## 🚀 Author
 Ali MohammadKhanlou
+
 ali.khanlou.ml@gmail.com
+
 GitHub: [github.com/alikhanlou](https://github.com/alikhanlou)
