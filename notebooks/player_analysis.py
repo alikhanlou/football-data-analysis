@@ -7,7 +7,12 @@ players_data = Path(__file__).resolve().parent.parent / "data" / "raw" / "top5_l
 df = pd.read_csv(players_data)
 
 print(df.head())
+print("--------------------\n--------------------")
 print(df.info())
+print("--------------------\n--------------------")
 print(df.describe())
-
+print("--------------------\n--------------------")
+print(df.corr(numeric_only=True))
+print("--------------------\n--------------------")
 print(df.isnull().sum())
+
