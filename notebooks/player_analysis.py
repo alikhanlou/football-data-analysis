@@ -7,7 +7,6 @@ players_data = Path(__file__).resolve().parent.parent / "data" / "raw" / "top5_l
 df = pd.read_csv(players_data)
 
 
-
 print(df.head())
 print("--------------------\n--------------------")
 print(df.info())
@@ -69,3 +68,4 @@ sns.heatmap(df.corr(numeric_only=True), annot=True, cmap="coolwarm")
 plt.title("Correlation Matrix")
 plt.tight_layout()
 plt.show()
+
