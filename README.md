@@ -22,9 +22,9 @@ This repository contains my personal journey in football data analytics. It incl
 - Apply machine learning in football use cases
 - Possibly collaborate with clubs and organizations
 
-## 🚀 Author
-Ali MohammadKhanlou
+## 👤 Author
+**Ali MohammadKhanlou**
 
-ali.khanlou.ml@gmail.com
+📧 ali.khanlou.ml@gmail.com
 
-GitHub: [github.com/alikhanlou](https://github.com/alikhanlou)
+🔗 GitHub: [github.com/alikhanlou](https://github.com/alikhanlou)
