@@ -6,11 +6,6 @@ import seaborn as sns
 players_data = Path(__file__).resolve().parent.parent / "data" / "raw" / "top5_leagues_players_2023.csv"
 df = pd.read_csv(players_data)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 827cceb (new2)
-
 
 print(df.head())
 print("--------------------\n--------------------")
@@ -72,20 +67,5 @@ print(position_stats)
 sns.heatmap(df.corr(numeric_only=True), annot=True, cmap="coolwarm")
 plt.title("Correlation Matrix")
 plt.tight_layout()
-<<<<<<< HEAD
 plt.show()
-=======
-print(df.head())
-print("--------------------\n--------------------")
-print(df.info())
-print("--------------------\n--------------------")
-print(df.describe())
-print("--------------------\n--------------------")
-print(df.corr(numeric_only=True))
-print("--------------------\n--------------------")
-print(df.isnull().sum())
 
->>>>>>> 477add7 (new)
-=======
-plt.show()
->>>>>>> 827cceb (new2)
