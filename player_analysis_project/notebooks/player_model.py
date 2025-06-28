@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import pandas as pd
 
 
-players_data = Path(__file__).resolve().parent.parent / "data" / "raw" / "top5_leagues_players_2023.csv"
+players_data = Path(__file__).resolve().parent.parent / "data" /  "top5_leagues_players_2023.csv"
 df = pd.read_csv(players_data)
 df["custom_rating"] = (
     df["goals"] * 4 +
