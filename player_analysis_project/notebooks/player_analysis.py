@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-players_data = Path(__file__).resolve().parent.parent / "data" / "raw" / "top5_leagues_players_2023.csv"
+players_data = Path(__file__).resolve().parent.parent / "data" / "top5_leagues_players_2023.csv"
 df = pd.read_csv(players_data)
 
 
@@ -34,6 +34,16 @@ print(top_player[["name","club","age","goals","assists","custom_rating"]])
 print("--------------------\n--------------------")
 
 
+position_stats = df.groupby("position").agg({
+    "goals": "mean",
+    "assists": "mean",
+    "custom_rating": "mean"
+}).sort_values(by="custom_rating", ascending=False)
+print(position_stats)
+
+
+
+
 goals_by_position = df.groupby("position")["goals"].sum().sort_values(ascending=False)
 sns.barplot(x=goals_by_position.values, y=goals_by_position.index)
 plt.title("Total Goals by Position")
@@ -41,7 +51,6 @@ plt.xlabel("Goals")
 plt.ylabel("Position")
 plt.tight_layout()
 plt.show()
-
 
 
 
@@ -53,19 +62,7 @@ plt.tight_layout()
 plt.show()
 
 
-
-position_stats = df.groupby("position").agg({
-    "goals": "mean",
-    "assists": "mean",
-    "custom_rating": "mean"
-}).sort_values(by="custom_rating", ascending=False)
-print(position_stats)
-
-
-
-
 sns.heatmap(df.corr(numeric_only=True), annot=True, cmap="coolwarm")
 plt.title("Correlation Matrix")
 plt.tight_layout()
 plt.show()
-
