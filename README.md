@@ -6,10 +6,8 @@ This repository contains my personal journey in football data analytics. It incl
 - `data/` — Raw and cleaned datasets (CSV, Excel)
 - `notebooks/` — Jupyter/Colab notebooks for step-by-step analysis
 - `scripts/` — Python scripts for reusable code and automation
-- `models/` — Saved ML models (if any)
 - `reports/` — Final reports and analysis results
 - `visualizations/` — Charts and figures for presentations
-- `assets/` — Static images (e.g. logos, screenshots)
 
 ## 🛠 Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
