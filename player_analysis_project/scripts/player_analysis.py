@@ -54,6 +54,8 @@ plt.show()
 
 
 
+
+
 sns.scatterplot(x="minutes", y="custom_rating", data=df)
 plt.title("Rating vs Minutes Played")
 plt.xlabel("Minutes Played")
