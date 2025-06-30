@@ -1,0 +1,701 @@
+match_id,league,season,date,home_team,away_team,home_goals,away_goals,home_shots,away_shots,home_possession,away_possession,home_yellow,away_yellow,home_red,away_red,result
+1,Bundesliga,2022-2023,2022-08-01,Bayern,Frankfurt,3,0,16,11,65.8,34.2,0,2,0,0,Win
+2,Bundesliga,2022-2023,2022-08-01,Leipzig,Dortmund,1,1,17,10,57.7,42.3,2,2,0,0,Draw
+3,Premier League,2022-2023,2022-08-01,Arsenal,Man City,1,0,9,8,57.8,42.2,2,1,0,0,Win
+4,Bundesliga,2022-2023,2022-08-02,Frankfurt,Wolfsburg,0,1,6,17,39.0,61.0,1,2,0,0,Lose
+5,Premier League,2022-2023,2022-08-02,Chelsea,Liverpool,4,2,17,19,55.8,44.2,2,0,0,0,Win
+6,Premier League,2022-2023,2022-08-03,Man City,Tottenham,1,0,14,12,58.9,41.1,2,1,1,0,Win
+7,Premier League,2022-2023,2022-08-03,Arsenal,Chelsea,1,0,16,14,50.9,49.1,0,2,0,0,Win
+8,Bundesliga,2022-2023,2022-08-04,Bayern,Wolfsburg,1,0,13,6,47.0,53.0,1,0,0,0,Win
+9,Premier League,2022-2023,2022-08-04,Tottenham,Chelsea,2,0,19,11,47.4,52.6,1,0,0,0,Win
+10,La Liga,2022-2023,2022-08-04,Barcelona,Sevilla,2,0,18,10,54.6,45.4,0,1,0,0,Win
+11,Bundesliga,2022-2023,2022-08-05,Leipzig,Bayern,1,1,15,8,45.6,54.4,0,2,0,0,Draw
+12,Premier League,2022-2023,2022-08-05,Tottenham,Liverpool,1,1,13,15,49.2,50.8,2,2,0,0,Draw
+13,La Liga,2022-2023,2022-08-06,Atletico Madrid,Barcelona,2,2,17,14,48.6,51.4,2,1,0,0,Draw
+14,Premier League,2022-2023,2022-08-06,Man United,Man City,1,2,8,15,56.2,43.8,2,0,0,0,Lose
+15,Premier League,2022-2023,2022-08-07,Liverpool,Man City,3,0,19,12,52.9,47.1,0,0,0,0,Win
+16,La Liga,2022-2023,2022-08-07,Atletico Madrid,Valencia,1,1,12,11,42.9,57.1,0,2,0,0,Draw
+17,La Liga,2022-2023,2022-08-07,Real Madrid,Sevilla,1,2,15,12,63.0,37.0,2,1,0,0,Lose
+18,Bundesliga,2022-2023,2022-08-08,Bayern,Leverkusen,2,3,15,16,36.6,63.4,1,0,0,0,Lose
+19,Premier League,2022-2023,2022-08-08,Chelsea,Man United,1,3,9,19,36.9,63.1,0,0,0,0,Lose
+20,Bundesliga,2022-2023,2022-08-09,Wolfsburg,Leipzig,2,1,18,17,42.5,57.5,0,1,0,0,Win
+21,Bundesliga,2022-2023,2022-08-09,Dortmund,Bayern,0,1,6,9,68.9,31.1,0,0,1,0,Lose
+22,Premier League,2022-2023,2022-08-10,Tottenham,Arsenal,1,0,13,9,43.2,56.8,2,1,0,0,Win
+23,La Liga,2022-2023,2022-08-10,Real Madrid,Barcelona,4,1,19,17,42.3,57.7,0,0,0,0,Win
+24,Premier League,2022-2023,2022-08-10,Liverpool,Man United,2,3,17,16,66.6,33.4,0,0,0,0,Lose
+25,La Liga,2022-2023,2022-08-11,Villarreal,Atletico Madrid,0,0,5,8,57.0,43.0,0,1,0,0,Draw
+26,Premier League,2022-2023,2022-08-11,Man United,Tottenham,2,2,14,18,56.0,44.0,5,1,0,0,Draw
+27,Premier League,2022-2023,2022-08-12,Tottenham,Man United,3,0,15,7,34.6,65.4,1,1,0,0,Win
+28,Bundesliga,2022-2023,2022-08-12,Frankfurt,Bayern,3,2,18,19,61.2,38.8,1,1,0,0,Win
+29,Bundesliga,2022-2023,2022-08-13,Frankfurt,Dortmund,2,2,11,11,63.1,36.9,0,1,0,0,Draw
+30,Bundesliga,2022-2023,2022-08-13,Frankfurt,Dortmund,0,2,7,20,50.2,49.8,1,0,0,0,Lose
+31,Premier League,2022-2023,2022-08-13,Liverpool,Tottenham,3,1,23,12,53.2,46.8,4,1,0,0,Win
+32,La Liga,2022-2023,2022-08-14,Villarreal,Valencia,1,1,15,8,66.8,33.2,1,2,0,0,Draw
+33,Premier League,2022-2023,2022-08-14,Tottenham,Man United,2,1,12,17,58.5,41.5,3,1,0,0,Win
+34,Premier League,2022-2023,2022-08-15,Arsenal,Man City,3,1,18,12,57.7,42.3,0,1,0,0,Win
+35,La Liga,2022-2023,2022-08-15,Sevilla,Atletico Madrid,2,1,20,15,41.2,58.8,0,0,0,0,Win
+36,Premier League,2022-2023,2022-08-16,Arsenal,Chelsea,1,1,13,8,47.7,52.3,0,1,0,0,Draw
+37,Bundesliga,2022-2023,2022-08-16,Leipzig,Dortmund,0,2,13,12,37.7,62.3,1,2,0,0,Lose
+38,Bundesliga,2022-2023,2022-08-16,Leverkusen,Frankfurt,2,0,11,9,51.9,48.1,0,5,0,0,Win
+39,Bundesliga,2022-2023,2022-08-17,Leverkusen,Dortmund,1,0,10,8,57.1,42.9,1,0,0,0,Win
+40,La Liga,2022-2023,2022-08-17,Barcelona,Villarreal,3,2,20,15,38.8,61.2,2,0,0,0,Win
+41,Bundesliga,2022-2023,2022-08-18,Wolfsburg,Frankfurt,2,2,18,17,69.1,30.9,1,2,0,0,Draw
+42,La Liga,2022-2023,2022-08-18,Villarreal,Valencia,1,1,16,14,52.3,47.7,0,0,0,0,Draw
+43,La Liga,2022-2023,2022-08-19,Valencia,Sevilla,0,2,6,20,56.2,43.8,0,0,0,0,Lose
+44,La Liga,2022-2023,2022-08-19,Barcelona,Villarreal,1,1,17,16,44.7,55.3,0,1,0,0,Draw
+45,Bundesliga,2022-2023,2022-08-19,Leverkusen,Bayern,1,1,10,11,44.5,55.5,1,1,0,0,Draw
+46,Premier League,2022-2023,2022-08-20,Man City,Arsenal,1,2,9,20,37.7,62.3,0,1,0,0,Lose
+47,Bundesliga,2022-2023,2022-08-20,Dortmund,Leverkusen,2,1,14,16,60.6,39.4,1,1,0,0,Win
+48,Bundesliga,2022-2023,2022-08-21,Bayern,Leverkusen,0,0,10,8,56.5,43.5,2,2,0,0,Draw
+49,La Liga,2022-2023,2022-08-21,Valencia,Sevilla,1,0,15,11,58.0,42.0,0,2,0,0,Win
+50,Bundesliga,2022-2023,2022-08-22,Leipzig,Wolfsburg,2,0,20,10,51.5,48.5,1,2,0,0,Win
+51,Premier League,2022-2023,2022-08-22,Tottenham,Man City,2,1,18,17,70.0,30.0,0,1,0,0,Win
+52,Bundesliga,2022-2023,2022-08-22,Wolfsburg,Leipzig,0,1,7,8,69.8,30.2,2,2,0,0,Lose
+53,Bundesliga,2022-2023,2022-08-23,Leipzig,Bayern,1,5,10,29,47.3,52.7,2,3,0,0,Lose
+54,La Liga,2022-2023,2022-08-23,Sevilla,Barcelona,1,1,15,10,56.1,43.9,1,0,0,0,Draw
+55,La Liga,2022-2023,2022-08-24,Real Madrid,Atletico Madrid,0,3,10,22,39.1,60.9,1,3,0,0,Lose
+56,Bundesliga,2022-2023,2022-08-24,Dortmund,Wolfsburg,1,2,11,12,41.8,58.2,0,1,0,0,Lose
+57,Premier League,2022-2023,2022-08-25,Tottenham,Man United,3,1,23,15,70.0,30.0,0,3,0,0,Win
+58,Bundesliga,2022-2023,2022-08-25,Wolfsburg,Frankfurt,0,2,12,19,51.3,48.7,2,2,0,0,Lose
+59,Premier League,2022-2023,2022-08-25,Arsenal,Man United,2,0,19,14,39.9,60.1,2,0,0,0,Win
+60,Premier League,2022-2023,2022-08-26,Chelsea,Tottenham,1,0,15,13,33.5,66.5,1,1,0,0,Win
+61,Premier League,2022-2023,2022-08-26,Chelsea,Man United,0,1,8,16,47.3,52.7,0,2,0,0,Lose
+62,La Liga,2022-2023,2022-08-27,Real Madrid,Villarreal,0,1,5,15,38.9,61.1,1,2,0,0,Lose
+63,La Liga,2022-2023,2022-08-27,Atletico Madrid,Barcelona,1,1,10,17,58.3,41.7,1,0,0,0,Draw
+64,Premier League,2022-2023,2022-08-28,Arsenal,Chelsea,0,0,12,11,36.7,63.3,1,0,0,0,Draw
+65,Premier League,2022-2023,2022-08-28,Man City,Liverpool,1,0,15,12,33.1,66.9,0,3,0,0,Win
+66,Premier League,2022-2023,2022-08-28,Chelsea,Arsenal,3,1,20,11,41.0,59.0,1,1,0,0,Win
+67,Premier League,2022-2023,2022-08-29,Tottenham,Liverpool,1,4,10,17,53.1,46.9,1,0,0,1,Lose
+68,Bundesliga,2022-2023,2022-08-29,Dortmund,Leipzig,1,0,13,6,32.9,67.1,2,0,0,0,Win
+69,Bundesliga,2022-2023,2022-08-30,Wolfsburg,Leverkusen,1,0,16,10,40.9,59.1,1,2,0,0,Win
+70,Premier League,2022-2023,2022-08-30,Chelsea,Arsenal,2,0,13,14,58.4,41.6,0,1,0,0,Win
+71,Bundesliga,2022-2023,2022-08-31,Leipzig,Leverkusen,3,0,21,5,53.0,47.0,0,3,0,0,Win
+72,Bundesliga,2022-2023,2022-08-31,Frankfurt,Leipzig,1,1,15,17,32.8,67.2,1,0,0,1,Draw
+73,La Liga,2022-2023,2022-08-31,Valencia,Sevilla,0,0,9,5,36.8,63.2,2,2,0,0,Draw
+74,Premier League,2022-2023,2022-09-01,Arsenal,Tottenham,1,2,17,17,47.7,52.3,2,0,0,0,Lose
+75,Premier League,2022-2023,2022-09-01,Man United,Man City,0,0,11,6,63.6,36.4,2,1,0,0,Draw
+76,Bundesliga,2022-2023,2022-09-02,Wolfsburg,Dortmund,1,2,13,19,30.0,70.0,2,1,0,1,Lose
+77,Bundesliga,2022-2023,2022-09-02,Dortmund,Bayern,0,0,6,7,49.8,50.2,1,1,0,0,Draw
+78,Premier League,2022-2023,2022-09-03,Tottenham,Man City,1,1,9,11,44.4,55.6,2,1,0,0,Draw
+79,Premier League,2022-2023,2022-09-03,Man City,Tottenham,0,2,10,17,70.0,30.0,0,1,0,0,Lose
+80,La Liga,2022-2023,2022-09-03,Real Madrid,Valencia,2,0,20,13,43.4,56.6,0,1,0,1,Win
+81,Premier League,2022-2023,2022-09-04,Man United,Liverpool,3,1,14,15,49.1,50.9,2,2,0,0,Win
+82,Premier League,2022-2023,2022-09-04,Chelsea,Arsenal,1,1,15,16,59.5,40.5,1,1,0,0,Draw
+83,Bundesliga,2022-2023,2022-09-05,Wolfsburg,Frankfurt,1,0,12,5,59.1,40.9,2,2,0,0,Win
+84,La Liga,2022-2023,2022-09-05,Barcelona,Sevilla,0,0,13,9,50.4,49.6,2,0,0,0,Draw
+85,La Liga,2022-2023,2022-09-06,Barcelona,Real Madrid,0,1,9,14,53.7,46.3,2,0,0,1,Lose
+86,Premier League,2022-2023,2022-09-06,Tottenham,Liverpool,1,2,13,13,46.1,53.9,3,2,0,0,Lose
+87,La Liga,2022-2023,2022-09-06,Sevilla,Villarreal,0,0,5,10,47.7,52.3,0,0,0,1,Draw
+88,La Liga,2022-2023,2022-09-07,Villarreal,Real Madrid,2,1,11,13,68.5,31.5,1,0,0,0,Win
+89,Bundesliga,2022-2023,2022-09-07,Frankfurt,Bayern,2,3,12,17,37.2,62.8,1,2,0,0,Lose
+90,Premier League,2022-2023,2022-09-08,Liverpool,Man United,2,1,13,8,58.7,41.3,1,3,0,0,Win
+91,Premier League,2022-2023,2022-09-08,Arsenal,Tottenham,4,0,26,7,48.4,51.6,0,1,0,0,Win
+92,Premier League,2022-2023,2022-09-09,Chelsea,Liverpool,1,1,9,15,36.6,63.4,2,1,0,1,Draw
+93,Premier League,2022-2023,2022-09-09,Liverpool,Arsenal,6,0,31,10,65.0,35.0,1,0,0,0,Win
+94,La Liga,2022-2023,2022-09-09,Sevilla,Barcelona,1,0,13,11,58.8,41.2,0,2,0,0,Win
+95,Premier League,2022-2023,2022-09-10,Liverpool,Chelsea,0,2,10,19,50.6,49.4,3,0,0,0,Lose
+96,Premier League,2022-2023,2022-09-10,Man City,Chelsea,3,2,15,16,43.5,56.5,2,1,0,0,Win
+97,Premier League,2022-2023,2022-09-11,Man City,Arsenal,2,0,16,6,36.9,63.1,1,0,0,0,Win
+98,Premier League,2022-2023,2022-09-11,Liverpool,Tottenham,1,1,12,17,62.0,38.0,1,0,0,1,Draw
+99,La Liga,2022-2023,2022-09-12,Barcelona,Sevilla,0,2,9,12,60.8,39.2,2,2,0,0,Lose
+100,Premier League,2022-2023,2022-09-12,Arsenal,Liverpool,1,2,9,17,49.6,50.4,1,1,0,0,Lose
+101,Premier League,2022-2023,2022-09-12,Liverpool,Man United,2,1,12,10,37.1,62.9,1,2,0,0,Win
+102,La Liga,2022-2023,2022-09-13,Atletico Madrid,Sevilla,1,2,8,19,61.6,38.4,0,0,0,0,Lose
+103,Bundesliga,2022-2023,2022-09-13,Frankfurt,Wolfsburg,3,2,17,12,37.6,62.4,0,0,0,0,Win
+104,Bundesliga,2022-2023,2022-09-14,Frankfurt,Leverkusen,2,1,19,9,56.3,43.7,2,1,0,0,Win
+105,Premier League,2022-2023,2022-09-14,Arsenal,Man United,0,0,6,14,42.7,57.3,0,1,0,1,Draw
+106,Premier League,2022-2023,2022-09-15,Man City,Chelsea,1,2,9,11,55.1,44.9,3,4,0,0,Lose
+107,Bundesliga,2022-2023,2022-09-15,Wolfsburg,Bayern,1,1,8,16,47.4,52.6,0,3,0,0,Draw
+108,Bundesliga,2022-2023,2022-09-15,Leipzig,Bayern,2,0,17,13,44.9,55.1,0,2,0,0,Win
+109,Premier League,2022-2023,2022-09-16,Chelsea,Liverpool,2,0,13,12,60.9,39.1,1,2,0,0,Win
+110,Bundesliga,2022-2023,2022-09-16,Wolfsburg,Dortmund,1,2,14,16,65.3,34.7,2,1,0,0,Lose
+111,Premier League,2022-2023,2022-09-17,Chelsea,Man City,3,1,17,12,40.1,59.9,2,2,0,0,Win
+112,Premier League,2022-2023,2022-09-17,Man City,Chelsea,0,1,11,15,39.0,61.0,1,2,0,0,Lose
+113,Premier League,2022-2023,2022-09-18,Tottenham,Arsenal,1,0,13,10,70.0,30.0,2,0,0,0,Win
+114,La Liga,2022-2023,2022-09-18,Real Madrid,Valencia,1,1,11,14,54.1,45.9,1,1,0,0,Draw
+115,Premier League,2022-2023,2022-09-18,Chelsea,Tottenham,2,0,15,7,59.6,40.4,0,1,0,1,Win
+116,Premier League,2022-2023,2022-09-19,Chelsea,Man City,0,1,10,14,70.0,30.0,1,0,0,0,Lose
+117,La Liga,2022-2023,2022-09-19,Villarreal,Valencia,3,2,14,16,44.1,55.9,1,1,0,0,Win
+118,Bundesliga,2022-2023,2022-09-20,Wolfsburg,Leipzig,2,1,17,9,48.0,52.0,0,2,0,0,Win
+119,La Liga,2022-2023,2022-09-20,Barcelona,Atletico Madrid,3,1,20,8,30.0,70.0,0,1,0,0,Win
+120,Premier League,2022-2023,2022-09-21,Man United,Liverpool,1,0,13,6,45.0,55.0,3,0,0,0,Win
+121,Premier League,2022-2023,2022-09-21,Tottenham,Man United,1,1,16,16,63.1,36.9,0,2,0,0,Draw
+122,La Liga,2022-2023,2022-09-21,Atletico Madrid,Real Madrid,1,1,13,9,50.4,49.6,2,1,0,0,Draw
+123,Premier League,2022-2023,2022-09-22,Liverpool,Chelsea,1,0,10,6,50.9,49.1,2,0,0,0,Win
+124,Bundesliga,2022-2023,2022-09-22,Bayern,Frankfurt,4,1,21,9,55.5,44.5,1,0,0,0,Win
+125,Bundesliga,2022-2023,2022-09-23,Dortmund,Wolfsburg,3,1,15,14,47.9,52.1,0,1,0,1,Win
+126,La Liga,2022-2023,2022-09-23,Barcelona,Atletico Madrid,1,0,10,11,64.9,35.1,1,3,0,0,Win
+127,Premier League,2022-2023,2022-09-24,Arsenal,Man United,2,2,17,16,55.4,44.6,1,1,0,0,Draw
+128,La Liga,2022-2023,2022-09-24,Barcelona,Sevilla,1,1,12,17,57.6,42.4,0,3,0,0,Draw
+129,Bundesliga,2022-2023,2022-09-24,Frankfurt,Leipzig,2,1,14,9,30.0,70.0,1,4,0,0,Win
+130,Bundesliga,2022-2023,2022-09-25,Frankfurt,Wolfsburg,1,0,15,9,45.6,54.4,2,1,0,0,Win
+131,Premier League,2022-2023,2022-09-25,Tottenham,Chelsea,1,2,15,19,57.9,42.1,1,0,0,0,Lose
+132,La Liga,2022-2023,2022-09-26,Villarreal,Real Madrid,5,1,25,15,62.3,37.7,0,0,0,1,Win
+133,Premier League,2022-2023,2022-09-26,Man United,Man City,2,1,11,11,63.3,36.7,1,0,1,0,Win
+134,Premier League,2022-2023,2022-09-27,Tottenham,Chelsea,2,3,20,14,55.6,44.4,1,1,0,0,Lose
+135,Premier League,2022-2023,2022-09-27,Man United,Tottenham,2,0,11,12,57.5,42.5,0,1,0,1,Win
+136,Bundesliga,2022-2023,2022-09-27,Dortmund,Leipzig,2,0,16,10,46.4,53.6,2,0,0,0,Win
+137,Premier League,2022-2023,2022-09-28,Tottenham,Man United,1,3,8,21,41.4,58.6,0,0,0,0,Lose
+138,Bundesliga,2022-2023,2022-09-28,Leverkusen,Leipzig,1,3,11,21,52.4,47.6,0,2,0,0,Lose
+139,Premier League,2022-2023,2022-09-29,Man City,Liverpool,2,1,20,17,53.1,46.9,0,3,0,0,Win
+140,La Liga,2022-2023,2022-09-29,Real Madrid,Villarreal,1,1,17,15,53.2,46.8,0,0,0,0,Draw
+141,La Liga,2022-2023,2022-09-30,Barcelona,Atletico Madrid,0,0,8,13,35.6,64.4,2,0,0,0,Draw
+142,Premier League,2022-2023,2022-09-30,Tottenham,Liverpool,0,1,7,10,33.4,66.6,1,0,0,0,Lose
+143,Bundesliga,2022-2023,2022-09-30,Frankfurt,Leverkusen,3,0,20,5,41.6,58.4,0,4,0,0,Win
+144,Bundesliga,2022-2023,2022-10-01,Bayern,Frankfurt,1,2,16,20,48.6,51.4,1,0,0,0,Lose
+145,Premier League,2022-2023,2022-10-01,Tottenham,Arsenal,0,1,5,10,60.3,39.7,1,1,0,0,Lose
+146,Bundesliga,2022-2023,2022-10-02,Bayern,Leipzig,0,2,13,14,48.1,51.9,1,1,0,0,Lose
+147,Bundesliga,2022-2023,2022-10-02,Wolfsburg,Dortmund,1,0,13,11,53.6,46.4,0,0,0,0,Win
+148,La Liga,2022-2023,2022-10-03,Barcelona,Real Madrid,1,1,11,9,47.8,52.2,1,1,0,0,Draw
+149,La Liga,2022-2023,2022-10-03,Atletico Madrid,Real Madrid,0,4,12,25,54.1,45.9,0,1,0,0,Lose
+150,La Liga,2022-2023,2022-10-03,Barcelona,Villarreal,2,0,15,8,50.0,50.0,1,2,0,0,Win
+151,Bundesliga,2022-2023,2022-10-04,Bayern,Leipzig,3,0,15,5,39.0,61.0,1,0,0,0,Win
+152,Bundesliga,2022-2023,2022-10-04,Leverkusen,Wolfsburg,1,1,17,10,47.8,52.2,0,1,0,0,Draw
+153,Bundesliga,2022-2023,2022-10-05,Dortmund,Frankfurt,2,0,15,10,45.0,55.0,3,1,0,0,Win
+154,Premier League,2022-2023,2022-10-05,Arsenal,Liverpool,2,1,13,12,43.1,56.9,1,1,0,0,Win
+155,Premier League,2022-2023,2022-10-06,Arsenal,Man United,2,2,14,16,43.6,56.4,2,1,0,0,Draw
+156,La Liga,2022-2023,2022-10-06,Villarreal,Barcelona,2,1,16,10,60.3,39.7,2,3,0,0,Win
+157,La Liga,2022-2023,2022-10-06,Barcelona,Real Madrid,2,0,19,7,67.9,32.1,1,1,0,0,Win
+158,La Liga,2022-2023,2022-10-07,Real Madrid,Sevilla,2,2,15,18,52.2,47.8,2,0,0,0,Draw
+159,Premier League,2022-2023,2022-10-07,Arsenal,Liverpool,0,0,8,6,43.4,56.6,2,0,0,0,Draw
+160,La Liga,2022-2023,2022-10-08,Atletico Madrid,Barcelona,2,1,18,15,30.0,70.0,0,0,0,0,Win
+161,Premier League,2022-2023,2022-10-08,Man City,Arsenal,2,2,15,13,45.0,55.0,2,1,0,0,Draw
+162,La Liga,2022-2023,2022-10-09,Atletico Madrid,Villarreal,1,0,9,12,64.4,35.6,1,1,0,0,Win
+163,Premier League,2022-2023,2022-10-09,Man United,Tottenham,1,1,13,14,53.9,46.1,5,1,0,0,Draw
+164,Bundesliga,2022-2023,2022-10-09,Wolfsburg,Leverkusen,1,0,11,12,43.0,57.0,0,0,0,0,Win
+165,Bundesliga,2022-2023,2022-10-10,Wolfsburg,Leipzig,1,0,16,8,46.4,53.6,0,2,0,0,Win
+166,Premier League,2022-2023,2022-10-10,Man City,Man United,1,2,11,15,57.9,42.1,1,0,0,0,Lose
+167,Premier League,2022-2023,2022-10-11,Chelsea,Man United,3,1,22,10,48.6,51.4,2,1,0,0,Win
+168,Premier League,2022-2023,2022-10-11,Man City,Chelsea,1,3,8,21,59.5,40.5,1,0,0,0,Lose
+169,La Liga,2022-2023,2022-10-12,Atletico Madrid,Villarreal,0,0,14,5,35.9,64.1,1,1,0,0,Draw
+170,La Liga,2022-2023,2022-10-12,Valencia,Villarreal,1,2,14,15,30.0,70.0,1,1,0,0,Lose
+171,Premier League,2022-2023,2022-10-12,Liverpool,Chelsea,2,2,13,11,64.8,35.2,2,1,0,1,Draw
+172,Premier League,2022-2023,2022-10-13,Man United,Man City,2,2,14,12,42.9,57.1,0,2,0,0,Draw
+173,Bundesliga,2022-2023,2022-10-13,Leverkusen,Bayern,2,1,12,16,58.1,41.9,1,0,0,0,Win
+174,Bundesliga,2022-2023,2022-10-14,Wolfsburg,Dortmund,0,2,7,18,53.1,46.9,2,1,0,0,Lose
+175,La Liga,2022-2023,2022-10-14,Sevilla,Real Madrid,1,2,12,16,47.0,53.0,0,2,0,0,Lose
+176,Bundesliga,2022-2023,2022-10-15,Leipzig,Wolfsburg,2,0,20,13,60.8,39.2,0,1,0,0,Win
+177,La Liga,2022-2023,2022-10-15,Villarreal,Real Madrid,1,2,17,12,35.9,64.1,0,1,0,0,Lose
+178,Bundesliga,2022-2023,2022-10-15,Leipzig,Wolfsburg,1,3,12,21,62.1,37.9,2,0,0,0,Lose
+179,La Liga,2022-2023,2022-10-16,Villarreal,Sevilla,1,1,12,17,49.1,50.9,4,2,0,0,Draw
+180,La Liga,2022-2023,2022-10-16,Sevilla,Atletico Madrid,0,1,10,12,52.3,47.7,1,0,0,0,Lose
+181,Bundesliga,2022-2023,2022-10-17,Dortmund,Frankfurt,0,1,11,11,59.6,40.4,0,1,0,0,Lose
+182,La Liga,2022-2023,2022-10-17,Villarreal,Sevilla,4,0,21,12,31.8,68.2,0,1,0,1,Win
+183,Bundesliga,2022-2023,2022-10-18,Frankfurt,Dortmund,4,1,17,15,56.2,43.8,1,2,0,0,Win
+184,Bundesliga,2022-2023,2022-10-18,Wolfsburg,Leipzig,1,0,15,11,46.3,53.7,1,1,0,1,Win
+185,La Liga,2022-2023,2022-10-18,Valencia,Real Madrid,3,1,22,15,48.1,51.9,2,2,0,0,Win
+186,La Liga,2022-2023,2022-10-19,Atletico Madrid,Barcelona,0,2,10,20,61.3,38.7,0,0,0,0,Lose
+187,La Liga,2022-2023,2022-10-19,Valencia,Villarreal,1,1,10,9,59.5,40.5,0,0,0,0,Draw
+188,Bundesliga,2022-2023,2022-10-20,Leipzig,Leverkusen,1,3,11,16,55.1,44.9,1,1,0,0,Lose
+189,La Liga,2022-2023,2022-10-20,Sevilla,Barcelona,0,1,6,10,31.1,68.9,0,2,0,0,Lose
+190,Bundesliga,2022-2023,2022-10-21,Leverkusen,Dortmund,1,0,14,7,52.1,47.9,2,1,0,0,Win
+191,Bundesliga,2022-2023,2022-10-21,Bayern,Leipzig,3,1,14,14,30.0,70.0,1,0,0,0,Win
+192,Bundesliga,2022-2023,2022-10-21,Frankfurt,Wolfsburg,4,0,23,12,51.8,48.2,0,1,0,0,Win
+193,La Liga,2022-2023,2022-10-22,Real Madrid,Barcelona,0,1,5,17,57.1,42.9,2,1,0,0,Lose
+194,Bundesliga,2022-2023,2022-10-22,Leipzig,Dortmund,2,2,12,13,59.3,40.7,2,1,0,0,Draw
+195,Premier League,2022-2023,2022-10-23,Arsenal,Man City,2,0,17,9,59.7,40.3,4,0,0,0,Win
+196,Premier League,2022-2023,2022-10-23,Arsenal,Liverpool,0,2,13,13,62.4,37.6,1,1,0,0,Lose
+197,Bundesliga,2022-2023,2022-10-24,Bayern,Leverkusen,3,2,14,14,59.7,40.3,0,0,0,0,Win
+198,La Liga,2022-2023,2022-10-24,Villarreal,Valencia,1,1,13,8,66.0,34.0,1,0,0,0,Draw
+199,Premier League,2022-2023,2022-10-24,Tottenham,Liverpool,1,1,12,13,47.7,52.3,1,1,0,0,Draw
+200,La Liga,2022-2023,2022-10-25,Sevilla,Barcelona,3,4,18,26,40.1,59.9,2,0,0,0,Lose
+201,Premier League,2022-2023,2022-10-25,Tottenham,Man City,2,1,15,11,60.3,39.7,2,1,0,0,Win
+202,Premier League,2022-2023,2022-10-26,Liverpool,Arsenal,4,0,26,8,51.3,48.7,6,0,0,0,Win
+203,Premier League,2022-2023,2022-10-26,Tottenham,Chelsea,0,2,9,18,37.0,63.0,1,0,0,0,Lose
+204,La Liga,2022-2023,2022-10-27,Real Madrid,Valencia,3,0,18,8,65.8,34.2,1,0,1,0,Win
+205,Premier League,2022-2023,2022-10-27,Man City,Liverpool,1,1,13,13,52.8,47.2,0,1,0,0,Draw
+206,Premier League,2022-2023,2022-10-27,Liverpool,Chelsea,2,2,16,19,65.7,34.3,0,5,0,0,Draw
+207,Bundesliga,2022-2023,2022-10-28,Wolfsburg,Leipzig,0,2,7,12,41.6,58.4,2,2,0,0,Lose
+208,La Liga,2022-2023,2022-10-28,Valencia,Villarreal,6,1,27,15,65.8,34.2,1,2,0,0,Win
+209,La Liga,2022-2023,2022-10-29,Valencia,Sevilla,1,1,14,9,43.5,56.5,1,3,0,0,Draw
+210,Premier League,2022-2023,2022-10-29,Tottenham,Liverpool,1,1,17,17,63.2,36.8,1,1,0,0,Draw
+211,La Liga,2022-2023,2022-10-30,Atletico Madrid,Barcelona,0,1,8,12,54.9,45.1,1,1,0,0,Lose
+212,Bundesliga,2022-2023,2022-10-30,Leipzig,Wolfsburg,3,2,21,19,67.0,33.0,0,1,0,0,Win
+213,La Liga,2022-2023,2022-10-30,Villarreal,Barcelona,2,0,18,8,60.4,39.6,1,2,0,0,Win
+214,La Liga,2022-2023,2022-10-31,Sevilla,Real Madrid,0,1,13,13,57.4,42.6,0,1,0,0,Lose
+215,Bundesliga,2022-2023,2022-10-31,Leipzig,Dortmund,2,0,16,7,62.2,37.8,1,0,0,0,Win
+216,La Liga,2022-2023,2022-11-01,Atletico Madrid,Villarreal,1,2,14,18,58.2,41.8,2,1,0,0,Lose
+217,Bundesliga,2022-2023,2022-11-01,Bayern,Dortmund,1,0,17,10,56.5,43.5,0,2,0,0,Win
+218,Premier League,2022-2023,2022-11-02,Arsenal,Liverpool,3,3,20,22,35.0,65.0,0,1,0,0,Draw
+219,Bundesliga,2022-2023,2022-11-02,Dortmund,Frankfurt,6,1,26,9,52.6,47.4,2,1,0,0,Win
+220,Premier League,2022-2023,2022-11-02,Liverpool,Tottenham,2,1,13,10,46.8,53.2,1,1,0,0,Win
+221,La Liga,2022-2023,2022-11-03,Valencia,Sevilla,3,2,16,13,50.7,49.3,0,0,0,0,Win
+222,La Liga,2022-2023,2022-11-03,Real Madrid,Barcelona,2,0,11,6,43.6,56.4,1,0,0,0,Win
+223,La Liga,2022-2023,2022-11-04,Sevilla,Valencia,4,2,24,12,49.7,50.3,1,2,0,0,Win
+224,Bundesliga,2022-2023,2022-11-04,Bayern,Wolfsburg,0,1,7,17,47.3,52.7,2,2,0,0,Lose
+225,La Liga,2022-2023,2022-11-05,Sevilla,Real Madrid,1,1,10,11,51.1,48.9,2,1,0,0,Draw
+226,La Liga,2022-2023,2022-11-05,Atletico Madrid,Sevilla,1,0,11,5,41.2,58.8,0,1,0,0,Win
+227,La Liga,2022-2023,2022-11-05,Valencia,Villarreal,0,2,5,11,56.2,43.8,2,2,0,0,Lose
+228,Bundesliga,2022-2023,2022-11-06,Dortmund,Leverkusen,2,1,19,11,48.4,51.6,1,0,0,0,Win
+229,Premier League,2022-2023,2022-11-06,Man United,Liverpool,1,1,8,12,53.6,46.4,0,0,0,0,Draw
+230,La Liga,2022-2023,2022-11-07,Real Madrid,Sevilla,1,2,9,17,55.7,44.3,4,0,0,0,Lose
+231,La Liga,2022-2023,2022-11-07,Villarreal,Sevilla,2,2,19,17,42.1,57.9,3,1,0,0,Draw
+232,Bundesliga,2022-2023,2022-11-08,Dortmund,Leverkusen,3,1,23,16,36.2,63.8,0,1,0,0,Win
+233,Premier League,2022-2023,2022-11-08,Chelsea,Tottenham,0,0,7,10,37.4,62.6,0,0,0,0,Draw
+234,Premier League,2022-2023,2022-11-09,Liverpool,Chelsea,4,0,20,12,58.1,41.9,1,1,0,0,Win
+235,Bundesliga,2022-2023,2022-11-09,Frankfurt,Bayern,0,3,14,20,42.6,57.4,1,1,0,0,Lose
+236,Premier League,2022-2023,2022-11-09,Tottenham,Liverpool,2,1,19,12,39.1,60.9,1,1,0,0,Win
+237,Premier League,2022-2023,2022-11-10,Liverpool,Arsenal,3,1,23,10,42.9,57.1,0,0,0,0,Win
+238,Premier League,2022-2023,2022-11-10,Man United,Liverpool,1,1,15,15,37.4,62.6,2,2,0,0,Draw
+239,La Liga,2022-2023,2022-11-11,Barcelona,Sevilla,1,1,8,12,46.6,53.4,0,1,0,0,Draw
+240,La Liga,2022-2023,2022-11-11,Atletico Madrid,Sevilla,0,1,5,8,42.1,57.9,2,1,0,0,Lose
+241,La Liga,2022-2023,2022-11-12,Sevilla,Atletico Madrid,3,1,16,13,47.6,52.4,0,2,0,0,Win
+242,Premier League,2022-2023,2022-11-12,Liverpool,Man City,2,0,16,10,64.3,35.7,1,1,0,0,Win
+243,Bundesliga,2022-2023,2022-11-12,Wolfsburg,Bayern,2,2,13,13,37.5,62.5,0,1,0,0,Draw
+244,La Liga,2022-2023,2022-11-13,Barcelona,Real Madrid,1,0,8,13,35.3,64.7,0,2,0,0,Win
+245,Bundesliga,2022-2023,2022-11-13,Bayern,Frankfurt,4,0,21,7,64.0,36.0,0,0,0,0,Win
+246,Premier League,2022-2023,2022-11-14,Arsenal,Man City,5,1,29,13,57.0,43.0,1,0,0,0,Win
+247,Bundesliga,2022-2023,2022-11-14,Dortmund,Frankfurt,4,0,19,14,55.7,44.3,1,1,0,0,Win
+248,Premier League,2022-2023,2022-11-15,Liverpool,Man City,2,0,14,11,49.4,50.6,0,3,0,0,Win
+249,Bundesliga,2022-2023,2022-11-15,Dortmund,Leverkusen,2,0,16,10,59.4,40.6,3,1,0,0,Win
+250,Bundesliga,2022-2023,2022-11-15,Leipzig,Frankfurt,2,6,20,25,48.0,52.0,1,0,0,0,Lose
+251,Premier League,2022-2023,2022-11-16,Chelsea,Tottenham,0,1,9,10,52.4,47.6,0,0,0,0,Lose
+252,Bundesliga,2022-2023,2022-11-16,Frankfurt,Bayern,2,1,13,9,54.8,45.2,1,0,0,0,Win
+253,Premier League,2022-2023,2022-11-17,Man United,Man City,2,0,13,9,56.3,43.7,1,1,0,0,Win
+254,Bundesliga,2022-2023,2022-11-17,Bayern,Leipzig,1,2,16,16,58.9,41.1,0,0,0,0,Lose
+255,Bundesliga,2022-2023,2022-11-18,Frankfurt,Leverkusen,0,2,6,14,48.2,51.8,1,4,0,0,Lose
+256,La Liga,2022-2023,2022-11-18,Villarreal,Barcelona,0,1,10,11,37.3,62.7,0,1,0,0,Lose
+257,Premier League,2022-2023,2022-11-18,Chelsea,Arsenal,2,2,15,17,59.0,41.0,1,3,0,0,Draw
+258,Premier League,2022-2023,2022-11-19,Tottenham,Man United,1,4,9,18,43.7,56.3,1,1,0,0,Lose
+259,Bundesliga,2022-2023,2022-11-19,Wolfsburg,Bayern,3,0,21,11,43.9,56.1,0,0,0,0,Win
+260,Bundesliga,2022-2023,2022-11-20,Bayern,Leipzig,2,0,16,8,60.5,39.5,0,0,0,0,Win
+261,Bundesliga,2022-2023,2022-11-20,Leverkusen,Leipzig,0,1,9,13,42.9,57.1,0,0,0,0,Lose
+262,Premier League,2022-2023,2022-11-21,Chelsea,Man United,2,1,12,16,60.1,39.9,0,0,0,1,Win
+263,Premier League,2022-2023,2022-11-21,Liverpool,Tottenham,1,0,14,11,65.2,34.8,1,1,0,0,Win
+264,Premier League,2022-2023,2022-11-21,Liverpool,Man United,2,1,17,11,53.6,46.4,1,3,0,0,Win
+265,Bundesliga,2022-2023,2022-11-22,Leverkusen,Dortmund,5,0,27,9,40.9,59.1,0,1,0,1,Win
+266,La Liga,2022-2023,2022-11-22,Barcelona,Valencia,1,1,10,8,42.8,57.2,2,1,0,0,Draw
+267,Bundesliga,2022-2023,2022-11-23,Leipzig,Wolfsburg,3,1,17,8,48.6,51.4,0,0,0,0,Win
+268,Bundesliga,2022-2023,2022-11-23,Leverkusen,Frankfurt,0,0,12,14,38.2,61.8,2,2,0,0,Draw
+269,La Liga,2022-2023,2022-11-24,Villarreal,Valencia,3,2,20,11,70.0,30.0,2,0,0,0,Win
+270,La Liga,2022-2023,2022-11-24,Atletico Madrid,Barcelona,2,0,12,13,52.2,47.8,0,1,0,0,Win
+271,Premier League,2022-2023,2022-11-24,Man United,Liverpool,3,0,20,5,52.8,47.2,3,0,0,0,Win
+272,Premier League,2022-2023,2022-11-25,Liverpool,Chelsea,0,0,7,12,35.7,64.3,0,3,0,0,Draw
+273,Bundesliga,2022-2023,2022-11-25,Frankfurt,Leverkusen,4,0,20,14,69.4,30.6,1,1,0,0,Win
+274,La Liga,2022-2023,2022-11-26,Real Madrid,Sevilla,2,4,16,25,45.2,54.8,0,1,0,0,Lose
+275,La Liga,2022-2023,2022-11-26,Barcelona,Sevilla,1,0,13,14,52.6,47.4,0,0,0,0,Win
+276,Premier League,2022-2023,2022-11-27,Man United,Tottenham,4,2,23,14,57.3,42.7,0,1,0,0,Win
+277,La Liga,2022-2023,2022-11-27,Atletico Madrid,Valencia,1,1,8,11,49.4,50.6,0,1,0,0,Draw
+278,Bundesliga,2022-2023,2022-11-27,Leipzig,Wolfsburg,2,4,17,19,31.5,68.5,1,1,0,0,Lose
+279,Premier League,2022-2023,2022-11-28,Chelsea,Arsenal,0,0,9,12,51.7,48.3,0,3,0,0,Draw
+280,Premier League,2022-2023,2022-11-28,Arsenal,Liverpool,4,2,26,15,41.6,58.4,0,0,0,0,Win
+281,La Liga,2022-2023,2022-11-29,Valencia,Barcelona,1,2,17,16,52.7,47.3,0,2,0,0,Lose
+282,Bundesliga,2022-2023,2022-11-29,Leverkusen,Frankfurt,0,1,10,10,54.4,45.6,0,1,0,0,Lose
+283,La Liga,2022-2023,2022-11-30,Real Madrid,Villarreal,1,1,13,17,53.4,46.6,0,1,0,0,Draw
+284,La Liga,2022-2023,2022-11-30,Barcelona,Sevilla,3,1,16,10,69.6,30.4,0,0,0,0,Win
+285,Bundesliga,2022-2023,2022-11-30,Dortmund,Leipzig,3,0,14,7,39.3,60.7,2,1,0,0,Win
+286,Bundesliga,2022-2023,2022-12-01,Wolfsburg,Leipzig,0,1,6,10,32.1,67.9,0,1,1,0,Lose
+287,La Liga,2022-2023,2022-12-01,Valencia,Villarreal,5,2,26,12,47.0,53.0,3,1,0,0,Win
+288,La Liga,2022-2023,2022-12-02,Sevilla,Valencia,2,1,13,17,52.7,47.3,0,3,0,0,Win
+289,La Liga,2022-2023,2022-12-02,Atletico Madrid,Sevilla,4,1,23,8,32.3,67.7,0,0,0,0,Win
+290,La Liga,2022-2023,2022-12-03,Atletico Madrid,Villarreal,3,1,23,17,43.8,56.2,0,1,0,0,Win
+291,Premier League,2022-2023,2022-12-03,Man City,Arsenal,1,0,12,9,48.8,51.2,0,0,0,0,Win
+292,La Liga,2022-2023,2022-12-03,Real Madrid,Valencia,1,1,10,12,52.7,47.3,3,0,0,0,Draw
+293,Bundesliga,2022-2023,2022-12-04,Dortmund,Frankfurt,1,0,15,11,50.4,49.6,0,0,0,0,Win
+294,Premier League,2022-2023,2022-12-04,Tottenham,Liverpool,0,1,12,12,38.9,61.1,0,0,0,0,Lose
+295,La Liga,2022-2023,2022-12-05,Villarreal,Valencia,1,1,11,12,48.8,51.2,2,0,0,0,Draw
+296,Bundesliga,2022-2023,2022-12-05,Wolfsburg,Leipzig,2,1,12,12,67.7,32.3,2,1,1,0,Win
+297,Premier League,2022-2023,2022-12-06,Arsenal,Man United,1,0,10,7,58.6,41.4,1,1,0,0,Win
+298,Premier League,2022-2023,2022-12-06,Man United,Arsenal,1,0,9,14,53.4,46.6,1,0,0,0,Win
+299,La Liga,2022-2023,2022-12-06,Real Madrid,Valencia,4,1,18,15,61.4,38.6,0,3,0,0,Win
+300,Premier League,2022-2023,2022-12-07,Man United,Man City,1,2,12,20,52.1,47.9,2,0,0,0,Lose
+301,Premier League,2022-2023,2022-12-07,Chelsea,Man United,1,0,8,10,66.2,33.8,1,0,0,0,Win
+302,Bundesliga,2022-2023,2022-12-08,Dortmund,Leverkusen,1,2,12,16,59.2,40.8,0,2,0,0,Lose
+303,Premier League,2022-2023,2022-12-08,Man City,Chelsea,2,1,19,9,49.4,50.6,3,2,0,0,Win
+304,La Liga,2022-2023,2022-12-09,Sevilla,Villarreal,0,0,9,14,62.3,37.7,2,2,0,1,Draw
+305,La Liga,2022-2023,2022-12-09,Atletico Madrid,Barcelona,4,2,23,15,61.9,38.1,1,1,0,0,Win
+306,Premier League,2022-2023,2022-12-09,Man United,Liverpool,1,0,16,10,64.4,35.6,2,1,0,0,Win
+307,Premier League,2022-2023,2022-12-10,Man City,Liverpool,0,1,7,13,51.2,48.8,1,2,0,0,Lose
+308,La Liga,2022-2023,2022-12-10,Real Madrid,Valencia,0,0,11,10,59.2,40.8,1,4,0,0,Draw
+309,Bundesliga,2022-2023,2022-12-11,Frankfurt,Bayern,2,0,13,7,42.1,57.9,1,1,1,0,Win
+310,Premier League,2022-2023,2022-12-11,Arsenal,Chelsea,3,2,21,14,53.5,46.5,1,0,0,0,Win
+311,La Liga,2022-2023,2022-12-12,Real Madrid,Barcelona,4,0,26,14,69.7,30.3,0,0,0,0,Win
+312,Premier League,2022-2023,2022-12-12,Chelsea,Liverpool,3,1,22,17,49.8,50.2,1,2,0,1,Win
+313,Bundesliga,2022-2023,2022-12-12,Wolfsburg,Frankfurt,3,2,19,19,44.8,55.2,2,0,0,0,Win
+314,Premier League,2022-2023,2022-12-13,Chelsea,Liverpool,0,2,8,18,46.6,53.4,1,2,0,0,Lose
+315,La Liga,2022-2023,2022-12-13,Sevilla,Atletico Madrid,2,0,20,14,51.8,48.2,0,1,0,0,Win
+316,Bundesliga,2022-2023,2022-12-14,Leverkusen,Leipzig,0,2,11,12,32.9,67.1,2,2,0,0,Lose
+317,Bundesliga,2022-2023,2022-12-14,Wolfsburg,Bayern,1,0,11,9,55.1,44.9,1,1,0,0,Win
+318,Bundesliga,2022-2023,2022-12-15,Frankfurt,Bayern,2,2,16,18,64.9,35.1,2,1,0,0,Draw
+319,Premier League,2022-2023,2022-12-15,Tottenham,Arsenal,2,1,11,12,69.9,30.1,1,2,0,0,Win
+320,La Liga,2022-2023,2022-12-15,Villarreal,Real Madrid,0,3,12,19,41.7,58.3,0,2,0,0,Lose
+321,Premier League,2022-2023,2022-12-16,Arsenal,Tottenham,1,1,8,16,55.0,45.0,0,2,0,0,Draw
+322,Bundesliga,2022-2023,2022-12-16,Bayern,Dortmund,0,1,7,13,55.6,44.4,1,2,0,0,Lose
+323,Premier League,2022-2023,2022-12-17,Liverpool,Tottenham,0,0,12,11,52.0,48.0,0,0,0,0,Draw
+324,Bundesliga,2022-2023,2022-12-17,Wolfsburg,Leverkusen,4,1,24,15,50.1,49.9,3,2,0,0,Win
+325,La Liga,2022-2023,2022-12-18,Real Madrid,Barcelona,1,1,9,16,48.4,51.6,1,2,1,0,Draw
+326,La Liga,2022-2023,2022-12-18,Villarreal,Atletico Madrid,3,1,17,13,45.8,54.2,1,1,0,0,Win
+327,Bundesliga,2022-2023,2022-12-18,Leverkusen,Bayern,2,1,20,13,49.2,50.8,2,0,0,0,Win
+328,Bundesliga,2022-2023,2022-12-19,Dortmund,Leipzig,1,1,11,8,67.6,32.4,3,2,0,0,Draw
+329,Bundesliga,2022-2023,2022-12-19,Wolfsburg,Dortmund,2,2,15,19,32.5,67.5,0,2,0,0,Draw
+330,La Liga,2022-2023,2022-12-20,Real Madrid,Valencia,1,0,9,12,39.0,61.0,1,0,0,0,Win
+331,Premier League,2022-2023,2022-12-20,Tottenham,Arsenal,1,3,8,20,55.9,44.1,0,1,0,0,Lose
+332,La Liga,2022-2023,2022-12-21,Barcelona,Real Madrid,1,0,9,12,47.4,52.6,0,1,0,0,Win
+333,Premier League,2022-2023,2022-12-21,Arsenal,Man United,1,0,8,8,49.6,50.4,0,1,0,0,Win
+334,Bundesliga,2022-2023,2022-12-21,Frankfurt,Wolfsburg,1,0,17,7,32.1,67.9,0,0,0,0,Win
+335,La Liga,2022-2023,2022-12-22,Sevilla,Real Madrid,2,0,19,11,59.2,40.8,2,0,0,0,Win
+336,La Liga,2022-2023,2022-12-22,Villarreal,Atletico Madrid,2,0,13,13,57.5,42.5,2,4,0,0,Win
+337,Bundesliga,2022-2023,2022-12-23,Leverkusen,Leipzig,0,0,13,9,31.9,68.1,1,1,0,0,Draw
+338,Bundesliga,2022-2023,2022-12-23,Wolfsburg,Leverkusen,1,1,12,14,39.4,60.6,0,0,0,0,Draw
+339,La Liga,2022-2023,2022-12-24,Real Madrid,Valencia,0,2,11,16,40.1,59.9,0,0,0,0,Lose
+340,Premier League,2022-2023,2022-12-24,Liverpool,Man United,0,4,11,19,46.3,53.7,1,1,0,0,Lose
+341,Bundesliga,2022-2023,2022-12-24,Leipzig,Bayern,1,0,11,7,46.2,53.8,3,3,0,0,Win
+342,Premier League,2022-2023,2022-12-25,Arsenal,Chelsea,1,1,13,10,57.2,42.8,1,4,0,0,Draw
+343,Bundesliga,2022-2023,2022-12-25,Bayern,Leipzig,3,1,21,14,48.0,52.0,1,0,0,0,Win
+344,Bundesliga,2022-2023,2022-12-26,Bayern,Dortmund,0,2,7,15,68.1,31.9,3,1,0,0,Lose
+345,La Liga,2022-2023,2022-12-26,Valencia,Sevilla,1,1,9,13,59.1,40.9,0,3,1,0,Draw
+346,La Liga,2022-2023,2022-12-27,Barcelona,Valencia,2,0,19,6,46.2,53.8,0,1,0,0,Win
+347,La Liga,2022-2023,2022-12-27,Villarreal,Sevilla,0,1,9,16,34.5,65.5,1,0,0,0,Lose
+348,Premier League,2022-2023,2022-12-27,Liverpool,Man United,1,0,9,8,67.5,32.5,1,2,0,0,Win
+349,La Liga,2022-2023,2022-12-28,Atletico Madrid,Villarreal,0,0,9,14,42.9,57.1,0,0,0,0,Draw
+350,Bundesliga,2022-2023,2022-12-28,Bayern,Dortmund,1,1,8,17,55.2,44.8,0,0,1,0,Draw
+351,La Liga,2022-2023,2022-12-29,Sevilla,Villarreal,0,0,12,5,62.5,37.5,0,1,0,0,Draw
+352,La Liga,2022-2023,2022-12-29,Villarreal,Sevilla,1,3,17,20,45.5,54.5,1,3,0,0,Lose
+353,Bundesliga,2022-2023,2022-12-30,Bayern,Leverkusen,0,1,7,13,60.0,40.0,0,0,0,0,Lose
+354,Premier League,2022-2023,2022-12-30,Man United,Tottenham,0,0,13,11,45.0,55.0,0,0,0,1,Draw
+355,La Liga,2022-2023,2022-12-30,Real Madrid,Sevilla,4,2,23,19,40.2,59.8,0,0,0,0,Win
+356,Bundesliga,2022-2023,2022-12-31,Bayern,Wolfsburg,1,0,8,9,59.9,40.1,1,1,0,0,Win
+357,La Liga,2022-2023,2022-12-31,Sevilla,Real Madrid,4,0,18,8,46.6,53.4,2,2,0,0,Win
+358,Premier League,2022-2023,2023-01-01,Chelsea,Man United,0,2,5,17,65.8,34.2,1,0,1,0,Lose
+359,Bundesliga,2022-2023,2023-01-01,Leverkusen,Frankfurt,2,2,17,16,63.1,36.9,0,1,0,0,Draw
+360,Premier League,2022-2023,2023-01-02,Arsenal,Man United,4,1,22,14,44.3,55.7,2,1,0,1,Win
+361,Bundesliga,2022-2023,2023-01-02,Dortmund,Leipzig,3,2,15,20,46.7,53.3,1,1,0,0,Win
+362,La Liga,2022-2023,2023-01-02,Villarreal,Sevilla,1,0,15,12,58.0,42.0,1,1,0,0,Win
+363,Premier League,2022-2023,2023-01-03,Man City,Chelsea,1,2,12,15,32.7,67.3,0,2,0,0,Lose
+364,Premier League,2022-2023,2023-01-03,Tottenham,Arsenal,1,0,11,12,45.5,54.5,2,0,0,0,Win
+365,La Liga,2022-2023,2023-01-04,Valencia,Real Madrid,3,2,15,11,51.4,48.6,2,2,0,0,Win
+366,Bundesliga,2022-2023,2023-01-04,Leverkusen,Bayern,4,0,26,10,58.5,41.5,1,1,0,0,Win
+367,Premier League,2022-2023,2023-01-05,Man City,Liverpool,2,0,20,13,35.0,65.0,3,2,0,0,Win
+368,Premier League,2022-2023,2023-01-05,Tottenham,Arsenal,1,0,11,12,49.1,50.9,0,1,0,0,Win
+369,La Liga,2022-2023,2023-01-05,Villarreal,Atletico Madrid,1,3,11,16,62.5,37.5,0,1,0,0,Lose
+370,Bundesliga,2022-2023,2023-01-06,Frankfurt,Leipzig,2,1,15,12,36.7,63.3,2,1,0,0,Win
+371,La Liga,2022-2023,2023-01-06,Sevilla,Villarreal,1,0,12,12,56.3,43.7,2,3,0,0,Win
+372,Premier League,2022-2023,2023-01-07,Liverpool,Chelsea,1,1,14,11,31.2,68.8,0,3,0,0,Draw
+373,Premier League,2022-2023,2023-01-07,Liverpool,Arsenal,1,1,16,16,34.1,65.9,0,2,0,0,Draw
+374,Bundesliga,2022-2023,2023-01-08,Wolfsburg,Dortmund,4,0,20,12,43.4,56.6,1,3,0,0,Win
+375,Premier League,2022-2023,2023-01-08,Man United,Liverpool,0,1,7,17,38.2,61.8,0,0,0,0,Lose
+376,La Liga,2022-2023,2023-01-08,Valencia,Atletico Madrid,4,0,25,8,62.6,37.4,2,1,0,0,Win
+377,Premier League,2022-2023,2023-01-09,Man United,Tottenham,3,0,18,6,60.0,40.0,0,1,0,0,Win
+378,Bundesliga,2022-2023,2023-01-09,Wolfsburg,Leverkusen,1,3,15,22,53.2,46.8,0,1,0,0,Lose
+379,Premier League,2022-2023,2023-01-10,Liverpool,Chelsea,1,1,15,9,52.0,48.0,1,0,0,0,Draw
+380,La Liga,2022-2023,2023-01-10,Atletico Madrid,Villarreal,1,0,9,9,57.7,42.3,1,2,0,0,Win
+381,Bundesliga,2022-2023,2023-01-11,Wolfsburg,Leverkusen,3,2,15,20,70.0,30.0,1,1,0,0,Win
+382,La Liga,2022-2023,2023-01-11,Atletico Madrid,Barcelona,4,2,20,18,47.1,52.9,1,0,0,0,Win
+383,Bundesliga,2022-2023,2023-01-11,Dortmund,Wolfsburg,1,2,15,13,39.0,61.0,1,0,0,0,Lose
+384,La Liga,2022-2023,2023-01-12,Barcelona,Sevilla,1,2,10,16,64.2,35.8,0,0,1,0,Lose
+385,Premier League,2022-2023,2023-01-12,Man United,Liverpool,3,2,16,19,61.5,38.5,1,1,0,0,Win
+386,Bundesliga,2022-2023,2023-01-13,Leverkusen,Frankfurt,1,0,17,5,42.2,57.8,1,2,0,0,Win
+387,Bundesliga,2022-2023,2023-01-13,Frankfurt,Dortmund,2,1,18,15,47.2,52.8,1,1,0,0,Win
+388,La Liga,2022-2023,2023-01-14,Real Madrid,Barcelona,3,1,17,10,51.0,49.0,1,2,0,0,Win
+389,Bundesliga,2022-2023,2023-01-14,Wolfsburg,Leipzig,1,2,12,15,47.3,52.7,1,0,0,0,Lose
+390,Premier League,2022-2023,2023-01-14,Liverpool,Man City,2,0,14,6,31.6,68.4,1,1,0,0,Win
+391,Bundesliga,2022-2023,2023-01-15,Leverkusen,Bayern,1,2,8,17,62.8,37.2,0,0,0,0,Lose
+392,Bundesliga,2022-2023,2023-01-15,Dortmund,Leverkusen,2,0,12,5,56.5,43.5,0,1,0,1,Win
+393,Bundesliga,2022-2023,2023-01-16,Dortmund,Bayern,1,4,14,20,32.6,67.4,1,1,0,0,Lose
+394,La Liga,2022-2023,2023-01-16,Atletico Madrid,Villarreal,1,1,10,16,46.3,53.7,1,0,0,0,Draw
+395,Bundesliga,2022-2023,2023-01-17,Frankfurt,Leverkusen,3,2,15,13,46.8,53.2,0,1,0,1,Win
+396,Bundesliga,2022-2023,2023-01-17,Bayern,Leipzig,1,1,11,13,50.2,49.8,0,0,0,0,Draw
+397,Bundesliga,2022-2023,2023-01-17,Wolfsburg,Leverkusen,1,0,17,13,41.6,58.4,2,1,0,0,Win
+398,La Liga,2022-2023,2023-01-18,Villarreal,Sevilla,1,1,11,8,53.9,46.1,0,1,0,0,Draw
+399,Bundesliga,2022-2023,2023-01-18,Bayern,Wolfsburg,0,2,6,17,46.4,53.6,2,1,0,0,Lose
+400,Premier League,2022-2023,2023-01-19,Arsenal,Man United,1,2,11,17,55.2,44.8,2,1,0,0,Lose
+401,Premier League,2022-2023,2023-01-19,Tottenham,Man City,0,0,12,13,36.4,63.6,1,0,0,1,Draw
+402,La Liga,2022-2023,2023-01-20,Real Madrid,Villarreal,1,2,16,13,39.2,60.8,1,1,0,0,Lose
+403,La Liga,2022-2023,2023-01-20,Barcelona,Atletico Madrid,0,1,6,12,35.2,64.8,0,1,0,0,Lose
+404,Premier League,2022-2023,2023-01-20,Man City,Man United,2,0,11,8,47.9,52.1,0,1,0,0,Win
+405,Premier League,2022-2023,2023-01-21,Man United,Tottenham,4,0,22,7,50.4,49.6,3,1,0,0,Win
+406,La Liga,2022-2023,2023-01-21,Sevilla,Barcelona,0,1,14,13,32.5,67.5,0,1,0,0,Lose
+407,Premier League,2022-2023,2023-01-22,Chelsea,Liverpool,2,3,18,19,33.4,66.6,1,2,0,0,Lose
+408,Bundesliga,2022-2023,2023-01-22,Frankfurt,Dortmund,0,0,11,6,55.0,45.0,1,1,0,0,Draw
+409,Premier League,2022-2023,2023-01-23,Arsenal,Man City,1,0,14,10,56.0,44.0,1,0,0,0,Win
+410,Bundesliga,2022-2023,2023-01-23,Leverkusen,Wolfsburg,1,0,9,10,47.0,53.0,0,2,0,0,Win
+411,Bundesliga,2022-2023,2023-01-23,Dortmund,Leverkusen,1,0,13,7,70.0,30.0,1,2,0,0,Win
+412,Bundesliga,2022-2023,2023-01-24,Dortmund,Frankfurt,1,0,14,14,35.4,64.6,1,1,1,0,Win
+413,La Liga,2022-2023,2023-01-24,Villarreal,Atletico Madrid,4,1,24,11,32.6,67.4,0,0,0,0,Win
+414,La Liga,2022-2023,2023-01-25,Atletico Madrid,Real Madrid,2,3,12,15,39.5,60.5,0,3,0,0,Lose
+415,La Liga,2022-2023,2023-01-25,Atletico Madrid,Valencia,1,2,10,20,60.4,39.6,2,0,0,0,Lose
+416,Premier League,2022-2023,2023-01-26,Man City,Liverpool,0,0,7,8,55.3,44.7,3,2,0,0,Draw
+417,La Liga,2022-2023,2023-01-26,Valencia,Atletico Madrid,2,1,18,10,47.7,52.3,2,1,0,0,Win
+418,Bundesliga,2022-2023,2023-01-26,Leverkusen,Leipzig,3,2,19,16,50.6,49.4,0,2,1,1,Win
+419,La Liga,2022-2023,2023-01-27,Atletico Madrid,Barcelona,1,4,16,26,53.8,46.2,3,0,0,0,Lose
+420,La Liga,2022-2023,2023-01-27,Sevilla,Real Madrid,4,2,17,11,42.0,58.0,0,1,0,0,Win
+421,Premier League,2022-2023,2023-01-28,Liverpool,Chelsea,1,0,17,5,56.6,43.4,0,2,0,0,Win
+422,La Liga,2022-2023,2023-01-28,Valencia,Atletico Madrid,2,0,12,11,42.4,57.6,1,2,0,0,Win
+423,Bundesliga,2022-2023,2023-01-29,Leipzig,Bayern,1,1,11,9,40.2,59.8,1,0,0,0,Draw
+424,Bundesliga,2022-2023,2023-01-29,Leverkusen,Leipzig,2,0,13,10,55.8,44.2,1,2,0,0,Win
+425,Premier League,2022-2023,2023-01-29,Chelsea,Man City,0,1,8,14,47.4,52.6,1,1,0,0,Lose
+426,Bundesliga,2022-2023,2023-01-30,Frankfurt,Leverkusen,2,0,13,8,37.6,62.4,0,0,0,0,Win
+427,La Liga,2022-2023,2023-01-30,Barcelona,Valencia,1,0,10,9,53.7,46.3,0,0,0,0,Win
+428,La Liga,2022-2023,2023-01-31,Barcelona,Villarreal,2,1,14,9,55.8,44.2,1,4,0,0,Win
+429,Bundesliga,2022-2023,2023-01-31,Leipzig,Dortmund,1,0,16,10,48.5,51.5,1,0,0,0,Win
+430,Bundesliga,2022-2023,2023-02-01,Bayern,Frankfurt,2,2,13,20,42.5,57.5,1,0,1,0,Draw
+431,La Liga,2022-2023,2023-02-01,Sevilla,Real Madrid,1,2,13,19,62.6,37.4,1,0,0,0,Lose
+432,Bundesliga,2022-2023,2023-02-01,Leipzig,Dortmund,2,2,16,17,58.8,41.2,0,0,0,0,Draw
+433,Premier League,2022-2023,2023-02-02,Man United,Tottenham,1,3,9,23,53.8,46.2,0,1,0,0,Lose
+434,Bundesliga,2022-2023,2023-02-02,Leverkusen,Dortmund,0,3,12,22,39.6,60.4,1,0,0,0,Lose
+435,Premier League,2022-2023,2023-02-03,Arsenal,Chelsea,2,0,17,13,38.4,61.6,0,1,0,0,Win
+436,La Liga,2022-2023,2023-02-03,Valencia,Villarreal,1,1,9,9,45.8,54.2,0,2,0,0,Draw
+437,La Liga,2022-2023,2023-02-04,Barcelona,Atletico Madrid,3,2,14,17,43.0,57.0,2,3,0,0,Win
+438,La Liga,2022-2023,2023-02-04,Atletico Madrid,Villarreal,1,1,11,9,42.0,58.0,3,1,0,0,Draw
+439,Premier League,2022-2023,2023-02-04,Liverpool,Man City,2,1,13,16,59.3,40.7,3,0,0,1,Win
+440,Premier League,2022-2023,2023-02-05,Arsenal,Liverpool,2,0,13,10,57.3,42.7,0,0,0,0,Win
+441,Bundesliga,2022-2023,2023-02-05,Leipzig,Bayern,0,1,12,14,52.9,47.1,2,0,0,0,Lose
+442,La Liga,2022-2023,2023-02-06,Real Madrid,Atletico Madrid,1,0,17,10,49.4,50.6,1,0,0,0,Win
+443,Bundesliga,2022-2023,2023-02-06,Bayern,Leverkusen,1,1,13,14,45.4,54.6,1,0,0,0,Draw
+444,La Liga,2022-2023,2023-02-07,Villarreal,Atletico Madrid,1,1,14,16,57.7,42.3,0,2,0,0,Draw
+445,Bundesliga,2022-2023,2023-02-07,Leverkusen,Leipzig,2,0,12,13,65.9,34.1,1,1,0,0,Win
+446,Premier League,2022-2023,2023-02-07,Tottenham,Arsenal,0,2,10,17,50.2,49.8,0,3,0,0,Lose
+447,La Liga,2022-2023,2023-02-08,Real Madrid,Valencia,0,1,6,11,61.0,39.0,1,0,0,0,Lose
+448,Bundesliga,2022-2023,2023-02-08,Leipzig,Wolfsburg,0,1,6,11,47.4,52.6,0,0,0,0,Lose
+449,Premier League,2022-2023,2023-02-09,Tottenham,Man City,2,0,17,7,55.0,45.0,1,3,1,0,Win
+450,Bundesliga,2022-2023,2023-02-09,Leverkusen,Leipzig,2,1,11,14,41.6,58.4,1,4,0,0,Win
+451,Bundesliga,2022-2023,2023-02-10,Leverkusen,Bayern,2,1,11,14,54.9,45.1,1,2,0,0,Win
+452,Premier League,2022-2023,2023-02-10,Man City,Tottenham,2,1,13,11,30.5,69.5,1,1,0,0,Win
+453,La Liga,2022-2023,2023-02-10,Sevilla,Real Madrid,1,2,15,20,51.4,48.6,0,0,0,0,Lose
+454,Premier League,2022-2023,2023-02-11,Arsenal,Chelsea,2,0,15,14,32.6,67.4,1,0,0,0,Win
+455,Premier League,2022-2023,2023-02-11,Liverpool,Tottenham,0,0,5,11,30.9,69.1,0,0,0,0,Draw
+456,La Liga,2022-2023,2023-02-12,Villarreal,Valencia,1,0,11,8,50.9,49.1,1,2,1,0,Win
+457,La Liga,2022-2023,2023-02-12,Valencia,Barcelona,0,1,10,17,55.3,44.7,1,0,0,0,Lose
+458,La Liga,2022-2023,2023-02-13,Villarreal,Real Madrid,0,2,10,15,51.5,48.5,0,0,0,0,Lose
+459,La Liga,2022-2023,2023-02-13,Valencia,Sevilla,1,2,17,12,51.5,48.5,0,2,0,0,Lose
+460,La Liga,2022-2023,2023-02-13,Real Madrid,Atletico Madrid,0,1,5,14,44.8,55.2,0,1,0,0,Lose
+461,Premier League,2022-2023,2023-02-14,Liverpool,Tottenham,0,0,12,9,49.8,50.2,1,1,0,0,Draw
+462,Premier League,2022-2023,2023-02-14,Man United,Man City,2,2,14,20,49.7,50.3,0,0,0,0,Draw
+463,Bundesliga,2022-2023,2023-02-15,Leipzig,Wolfsburg,1,1,12,8,45.7,54.3,0,1,0,0,Draw
+464,Bundesliga,2022-2023,2023-02-15,Leipzig,Bayern,0,1,9,9,53.8,46.2,1,0,0,0,Lose
+465,La Liga,2022-2023,2023-02-16,Atletico Madrid,Barcelona,0,1,14,11,45.7,54.3,1,1,0,0,Lose
+466,Premier League,2022-2023,2023-02-16,Liverpool,Man City,1,0,17,13,39.9,60.1,1,1,0,0,Win
+467,Bundesliga,2022-2023,2023-02-17,Dortmund,Wolfsburg,1,3,17,16,48.2,51.8,4,0,0,0,Lose
+468,Premier League,2022-2023,2023-02-17,Man City,Man United,1,2,12,16,51.9,48.1,0,1,0,0,Lose
+469,Premier League,2022-2023,2023-02-17,Arsenal,Chelsea,2,2,19,20,38.7,61.3,2,2,0,0,Draw
+470,Premier League,2022-2023,2023-02-18,Man City,Chelsea,2,2,16,15,48.5,51.5,1,2,0,0,Draw
+471,Premier League,2022-2023,2023-02-18,Chelsea,Arsenal,1,3,17,19,51.9,48.1,1,0,0,1,Lose
+472,Premier League,2022-2023,2023-02-19,Man United,Arsenal,1,0,8,13,70.0,30.0,2,0,0,0,Win
+473,Bundesliga,2022-2023,2023-02-19,Bayern,Leipzig,0,1,12,10,63.4,36.6,1,0,0,1,Lose
+474,Premier League,2022-2023,2023-02-20,Arsenal,Chelsea,2,1,17,14,62.9,37.1,3,2,0,0,Win
+475,La Liga,2022-2023,2023-02-20,Barcelona,Real Madrid,1,1,15,8,54.9,45.1,0,2,0,0,Draw
+476,Bundesliga,2022-2023,2023-02-20,Bayern,Dortmund,5,0,26,11,59.9,40.1,1,1,0,0,Win
+477,Premier League,2022-2023,2023-02-21,Man United,Arsenal,2,1,18,14,48.8,51.2,2,2,0,0,Win
+478,Bundesliga,2022-2023,2023-02-21,Leipzig,Bayern,2,0,17,5,58.1,41.9,0,0,0,0,Win
+479,Premier League,2022-2023,2023-02-22,Man United,Man City,2,1,12,13,41.1,58.9,1,2,0,0,Win
+480,Premier League,2022-2023,2023-02-22,Tottenham,Liverpool,1,2,17,16,51.9,48.1,0,0,0,0,Lose
+481,Bundesliga,2022-2023,2023-02-23,Bayern,Frankfurt,3,0,19,6,50.0,50.0,1,1,0,1,Win
+482,La Liga,2022-2023,2023-02-23,Sevilla,Atletico Madrid,4,2,17,14,44.8,55.2,1,1,0,0,Win
+483,Bundesliga,2022-2023,2023-02-23,Wolfsburg,Bayern,3,2,16,16,46.7,53.3,2,0,0,0,Win
+484,La Liga,2022-2023,2023-02-24,Valencia,Barcelona,1,2,14,20,44.5,55.5,1,0,0,0,Lose
+485,Bundesliga,2022-2023,2023-02-24,Bayern,Wolfsburg,0,5,5,21,50.4,49.6,0,3,0,0,Lose
+486,La Liga,2022-2023,2023-02-25,Sevilla,Real Madrid,1,0,8,9,64.3,35.7,0,1,0,0,Win
+487,Premier League,2022-2023,2023-02-25,Liverpool,Tottenham,2,0,17,7,57.5,42.5,1,0,0,1,Win
+488,La Liga,2022-2023,2023-02-26,Villarreal,Real Madrid,1,0,8,7,53.3,46.7,0,2,0,0,Win
+489,La Liga,2022-2023,2023-02-26,Villarreal,Sevilla,1,0,8,11,52.3,47.7,1,1,0,0,Win
+490,Premier League,2022-2023,2023-02-26,Man City,Man United,2,1,18,11,59.5,40.5,3,1,0,0,Win
+491,Bundesliga,2022-2023,2023-02-27,Dortmund,Bayern,3,1,18,17,42.6,57.4,0,2,0,0,Win
+492,Premier League,2022-2023,2023-02-27,Man United,Chelsea,0,3,11,17,37.1,62.9,0,1,0,0,Lose
+493,Bundesliga,2022-2023,2023-02-28,Wolfsburg,Frankfurt,2,0,19,9,41.6,58.4,1,1,0,0,Win
+494,Bundesliga,2022-2023,2023-02-28,Leipzig,Leverkusen,2,3,14,17,56.4,43.6,3,1,0,0,Lose
+495,Bundesliga,2022-2023,2023-03-01,Wolfsburg,Leipzig,1,2,11,20,36.5,63.5,1,1,0,0,Lose
+496,La Liga,2022-2023,2023-03-01,Valencia,Villarreal,0,2,7,12,46.9,53.1,1,0,0,0,Lose
+497,La Liga,2022-2023,2023-03-01,Real Madrid,Villarreal,2,2,17,18,60.7,39.3,0,0,0,0,Draw
+498,Bundesliga,2022-2023,2023-03-02,Frankfurt,Wolfsburg,0,1,10,14,50.7,49.3,0,1,0,0,Lose
+499,Bundesliga,2022-2023,2023-03-02,Dortmund,Leverkusen,1,0,17,14,37.8,62.2,1,2,0,0,Win
+500,La Liga,2022-2023,2023-03-03,Barcelona,Sevilla,5,0,25,6,63.6,36.4,2,0,0,0,Win
+501,La Liga,2022-2023,2023-03-03,Sevilla,Villarreal,2,2,20,16,43.4,56.6,2,0,0,0,Draw
+502,La Liga,2022-2023,2023-03-04,Villarreal,Real Madrid,0,2,12,12,47.4,52.6,0,3,0,0,Lose
+503,La Liga,2022-2023,2023-03-04,Sevilla,Atletico Madrid,4,2,25,19,42.8,57.2,1,0,1,0,Win
+504,Bundesliga,2022-2023,2023-03-04,Leipzig,Frankfurt,2,0,14,9,49.4,50.6,2,1,0,0,Win
+505,Premier League,2022-2023,2023-03-05,Tottenham,Liverpool,1,1,8,11,43.2,56.8,3,1,0,0,Draw
+506,Premier League,2022-2023,2023-03-05,Man City,Tottenham,1,0,14,5,34.6,65.4,1,0,0,0,Win
+507,Premier League,2022-2023,2023-03-06,Liverpool,Man City,3,1,18,13,48.9,51.1,0,0,0,0,Win
+508,Bundesliga,2022-2023,2023-03-06,Frankfurt,Leipzig,2,2,12,12,64.4,35.6,1,1,0,0,Draw
+509,Premier League,2022-2023,2023-03-07,Chelsea,Man City,2,1,15,11,67.2,32.8,2,0,0,0,Win
+510,Bundesliga,2022-2023,2023-03-07,Wolfsburg,Frankfurt,1,2,10,13,66.1,33.9,0,0,0,0,Lose
+511,La Liga,2022-2023,2023-03-07,Villarreal,Real Madrid,2,2,19,14,41.4,58.6,0,2,0,0,Draw
+512,La Liga,2022-2023,2023-03-08,Atletico Madrid,Sevilla,2,0,16,12,34.3,65.7,1,0,0,0,Win
+513,Bundesliga,2022-2023,2023-03-08,Bayern,Leipzig,1,1,8,10,30.0,70.0,2,2,0,0,Draw
+514,Bundesliga,2022-2023,2023-03-09,Leipzig,Frankfurt,1,0,15,7,57.8,42.2,0,0,0,0,Win
+515,Premier League,2022-2023,2023-03-09,Chelsea,Tottenham,2,1,13,12,41.5,58.5,1,1,0,0,Win
+516,Premier League,2022-2023,2023-03-10,Arsenal,Liverpool,0,2,13,14,44.6,55.4,2,0,0,0,Lose
+517,Premier League,2022-2023,2023-03-10,Man City,Man United,0,2,9,12,30.3,69.7,3,2,0,0,Lose
+518,Bundesliga,2022-2023,2023-03-10,Leipzig,Bayern,0,2,7,14,49.8,50.2,0,1,0,1,Lose
+519,La Liga,2022-2023,2023-03-11,Valencia,Barcelona,1,2,14,11,47.3,52.7,0,0,0,0,Lose
+520,La Liga,2022-2023,2023-03-11,Valencia,Villarreal,2,1,18,16,61.1,38.9,1,1,0,0,Win
+521,Bundesliga,2022-2023,2023-03-12,Frankfurt,Wolfsburg,1,1,11,8,47.7,52.3,2,1,0,0,Draw
+522,Premier League,2022-2023,2023-03-12,Chelsea,Man United,0,2,7,15,48.6,51.4,0,1,0,0,Lose
+523,Premier League,2022-2023,2023-03-13,Arsenal,Man United,2,0,13,8,57.5,42.5,0,2,0,0,Win
+524,Bundesliga,2022-2023,2023-03-13,Leipzig,Frankfurt,1,0,16,14,41.5,58.5,0,1,0,0,Win
+525,La Liga,2022-2023,2023-03-13,Real Madrid,Barcelona,1,1,12,16,46.2,53.8,1,3,0,0,Draw
+526,Premier League,2022-2023,2023-03-14,Chelsea,Liverpool,1,0,9,5,50.0,50.0,1,1,0,0,Win
+527,Premier League,2022-2023,2023-03-14,Arsenal,Man City,2,1,12,17,45.2,54.8,1,0,0,0,Win
+528,Premier League,2022-2023,2023-03-15,Tottenham,Chelsea,2,1,14,9,38.8,61.2,1,2,0,0,Win
+529,Premier League,2022-2023,2023-03-15,Liverpool,Tottenham,2,1,12,13,48.5,51.5,1,2,0,0,Win
+530,La Liga,2022-2023,2023-03-16,Atletico Madrid,Barcelona,0,1,13,14,30.3,69.7,2,0,0,0,Lose
+531,La Liga,2022-2023,2023-03-16,Atletico Madrid,Villarreal,1,0,8,13,53.9,46.1,0,1,0,0,Win
+532,Bundesliga,2022-2023,2023-03-16,Wolfsburg,Bayern,4,1,20,9,48.5,51.5,3,1,0,0,Win
+533,Premier League,2022-2023,2023-03-17,Arsenal,Tottenham,3,1,17,16,66.0,34.0,1,2,0,0,Win
+534,Bundesliga,2022-2023,2023-03-17,Bayern,Frankfurt,1,2,17,13,55.6,44.4,0,2,0,0,Lose
+535,La Liga,2022-2023,2023-03-18,Sevilla,Villarreal,1,1,16,10,32.7,67.3,1,1,0,0,Draw
+536,La Liga,2022-2023,2023-03-18,Valencia,Sevilla,2,3,20,20,63.3,36.7,1,1,0,0,Lose
+537,La Liga,2022-2023,2023-03-19,Atletico Madrid,Barcelona,2,0,18,10,53.3,46.7,3,1,0,0,Win
+538,Bundesliga,2022-2023,2023-03-19,Bayern,Leipzig,3,2,20,20,39.5,60.5,1,1,0,0,Win
+539,La Liga,2022-2023,2023-03-19,Real Madrid,Atletico Madrid,3,1,19,14,48.7,51.3,3,1,0,0,Win
+540,Bundesliga,2022-2023,2023-03-20,Frankfurt,Wolfsburg,0,2,10,11,51.4,48.6,1,1,0,0,Lose
+541,La Liga,2022-2023,2023-03-20,Valencia,Atletico Madrid,1,2,14,20,60.2,39.8,0,0,0,0,Lose
+542,Premier League,2022-2023,2023-03-21,Arsenal,Liverpool,1,0,8,9,48.1,51.9,0,1,0,0,Win
+543,Bundesliga,2022-2023,2023-03-21,Bayern,Frankfurt,2,0,19,5,49.5,50.5,0,1,0,0,Win
+544,Premier League,2022-2023,2023-03-22,Man United,Arsenal,1,2,11,11,37.7,62.3,0,2,0,0,Lose
+545,Premier League,2022-2023,2023-03-22,Man United,Tottenham,1,1,15,16,52.1,47.9,1,0,0,0,Draw
+546,La Liga,2022-2023,2023-03-22,Real Madrid,Villarreal,1,1,16,10,33.8,66.2,1,0,0,0,Draw
+547,La Liga,2022-2023,2023-03-23,Villarreal,Sevilla,3,2,16,19,65.3,34.7,2,0,0,1,Win
+548,Premier League,2022-2023,2023-03-23,Arsenal,Liverpool,0,1,14,13,60.4,39.6,1,0,0,0,Lose
+549,Bundesliga,2022-2023,2023-03-24,Frankfurt,Dortmund,0,1,13,9,31.1,68.9,1,0,0,0,Lose
+550,Bundesliga,2022-2023,2023-03-24,Wolfsburg,Leipzig,1,2,14,12,51.8,48.2,1,0,1,0,Lose
+551,Premier League,2022-2023,2023-03-25,Liverpool,Man City,2,2,13,11,53.1,46.9,0,0,0,0,Draw
+552,La Liga,2022-2023,2023-03-25,Real Madrid,Sevilla,1,0,11,7,56.7,43.3,1,1,0,0,Win
+553,Premier League,2022-2023,2023-03-25,Man United,Chelsea,2,1,20,15,36.7,63.3,1,1,0,0,Win
+554,La Liga,2022-2023,2023-03-26,Valencia,Sevilla,2,0,20,5,47.6,52.4,1,0,0,0,Win
+555,Bundesliga,2022-2023,2023-03-26,Frankfurt,Leverkusen,1,0,8,10,55.7,44.3,1,1,0,0,Win
+556,La Liga,2022-2023,2023-03-27,Real Madrid,Sevilla,2,0,13,5,54.6,45.4,1,3,0,0,Win
+557,Premier League,2022-2023,2023-03-27,Man United,Arsenal,4,1,25,8,70.0,30.0,0,2,0,0,Win
+558,Bundesliga,2022-2023,2023-03-28,Leverkusen,Leipzig,1,1,12,15,49.6,50.4,2,1,0,0,Draw
+559,Premier League,2022-2023,2023-03-28,Liverpool,Man City,0,0,9,5,56.5,43.5,2,0,0,0,Draw
+560,Premier League,2022-2023,2023-03-28,Liverpool,Chelsea,1,4,17,23,39.0,61.0,1,2,0,0,Lose
+561,La Liga,2022-2023,2023-03-29,Valencia,Real Madrid,5,2,24,13,47.6,52.4,1,0,0,0,Win
+562,La Liga,2022-2023,2023-03-29,Atletico Madrid,Villarreal,2,2,16,11,52.3,47.7,1,3,0,0,Draw
+563,Premier League,2022-2023,2023-03-30,Man United,Arsenal,2,1,20,15,50.8,49.2,0,0,0,0,Win
+564,Premier League,2022-2023,2023-03-30,Chelsea,Man City,2,0,14,8,47.2,52.8,2,1,0,0,Win
+565,Bundesliga,2022-2023,2023-03-31,Wolfsburg,Dortmund,2,3,18,15,53.9,46.1,2,4,0,0,Lose
+566,La Liga,2022-2023,2023-03-31,Atletico Madrid,Barcelona,1,1,9,16,61.7,38.3,4,0,0,0,Draw
+567,Premier League,2022-2023,2023-03-31,Man City,Arsenal,1,1,12,16,55.7,44.3,0,1,0,0,Draw
+568,La Liga,2022-2023,2023-04-01,Barcelona,Villarreal,0,1,8,8,39.9,60.1,3,1,0,0,Lose
+569,Bundesliga,2022-2023,2023-04-01,Dortmund,Bayern,2,1,16,8,35.7,64.3,0,1,0,0,Win
+570,Premier League,2022-2023,2023-04-02,Tottenham,Liverpool,4,2,24,15,50.7,49.3,0,0,0,0,Win
+571,La Liga,2022-2023,2023-04-02,Valencia,Villarreal,3,0,21,6,70.0,30.0,2,0,0,0,Win
+572,La Liga,2022-2023,2023-04-03,Villarreal,Valencia,2,2,16,18,56.0,44.0,1,1,0,0,Draw
+573,Bundesliga,2022-2023,2023-04-03,Frankfurt,Wolfsburg,2,1,11,12,57.4,42.6,0,0,0,0,Win
+574,La Liga,2022-2023,2023-04-03,Villarreal,Atletico Madrid,3,1,19,17,62.8,37.2,0,1,0,0,Win
+575,Premier League,2022-2023,2023-04-04,Liverpool,Man City,3,2,20,11,50.7,49.3,1,0,0,0,Win
+576,La Liga,2022-2023,2023-04-04,Sevilla,Atletico Madrid,2,1,15,15,57.4,42.6,1,1,0,0,Win
+577,La Liga,2022-2023,2023-04-05,Valencia,Real Madrid,1,0,16,8,47.9,52.1,0,1,0,0,Win
+578,La Liga,2022-2023,2023-04-05,Valencia,Real Madrid,0,1,11,16,39.7,60.3,3,1,0,0,Lose
+579,La Liga,2022-2023,2023-04-06,Sevilla,Villarreal,2,3,20,15,35.9,64.1,1,0,0,0,Lose
+580,Premier League,2022-2023,2023-04-06,Man City,Man United,2,0,11,8,58.8,41.2,2,0,0,0,Win
+581,La Liga,2022-2023,2023-04-06,Real Madrid,Villarreal,0,0,12,9,57.2,42.8,0,0,0,0,Draw
+582,Bundesliga,2022-2023,2023-04-07,Wolfsburg,Frankfurt,0,1,9,9,54.5,45.5,3,1,0,0,Lose
+583,La Liga,2022-2023,2023-04-07,Sevilla,Valencia,3,0,17,6,70.0,30.0,0,2,0,0,Win
+584,Bundesliga,2022-2023,2023-04-08,Frankfurt,Bayern,1,2,13,12,53.6,46.4,0,0,0,0,Lose
+585,La Liga,2022-2023,2023-04-08,Valencia,Barcelona,2,1,18,16,47.7,52.3,0,0,0,0,Win
+586,La Liga,2022-2023,2023-04-09,Valencia,Sevilla,1,2,9,18,59.6,40.4,2,2,0,0,Lose
+587,Bundesliga,2022-2023,2023-04-09,Dortmund,Bayern,1,1,15,10,45.2,54.8,0,1,0,0,Draw
+588,La Liga,2022-2023,2023-04-09,Real Madrid,Atletico Madrid,1,2,12,14,37.0,63.0,1,2,0,0,Lose
+589,Bundesliga,2022-2023,2023-04-10,Bayern,Wolfsburg,2,3,17,14,63.7,36.3,1,1,0,1,Lose
+590,Bundesliga,2022-2023,2023-04-10,Dortmund,Bayern,0,1,7,8,55.5,44.5,0,1,0,0,Lose
+591,Premier League,2022-2023,2023-04-11,Tottenham,Liverpool,2,1,16,15,63.9,36.1,1,1,0,0,Win
+592,La Liga,2022-2023,2023-04-11,Valencia,Villarreal,3,1,16,13,36.5,63.5,1,1,0,0,Win
+593,Bundesliga,2022-2023,2023-04-12,Dortmund,Leipzig,1,1,12,14,59.1,40.9,2,2,0,0,Draw
+594,La Liga,2022-2023,2023-04-12,Atletico Madrid,Sevilla,2,0,18,8,48.2,51.8,1,1,0,0,Win
+595,La Liga,2022-2023,2023-04-12,Atletico Madrid,Valencia,3,2,20,19,60.3,39.7,0,0,1,0,Win
+596,Premier League,2022-2023,2023-04-13,Tottenham,Man United,1,1,9,16,59.0,41.0,2,1,0,0,Draw
+597,Premier League,2022-2023,2023-04-13,Man United,Man City,1,0,14,7,59.5,40.5,1,0,0,0,Win
+598,Bundesliga,2022-2023,2023-04-14,Frankfurt,Leverkusen,1,1,16,16,32.6,67.4,1,0,0,0,Draw
+599,La Liga,2022-2023,2023-04-14,Atletico Madrid,Valencia,3,2,16,11,48.6,51.4,3,0,0,0,Win
+600,Premier League,2022-2023,2023-04-15,Man United,Man City,2,1,15,15,48.3,51.7,0,1,0,0,Win
+601,Bundesliga,2022-2023,2023-04-15,Frankfurt,Dortmund,1,3,9,23,47.5,52.5,0,0,0,0,Lose
+602,La Liga,2022-2023,2023-04-15,Atletico Madrid,Sevilla,4,3,22,23,30.0,70.0,2,0,0,0,Win
+603,Premier League,2022-2023,2023-04-16,Chelsea,Man City,3,2,23,14,58.4,41.6,1,2,0,0,Win
+604,La Liga,2022-2023,2023-04-16,Valencia,Sevilla,1,1,12,12,57.5,42.5,0,1,0,0,Draw
+605,Bundesliga,2022-2023,2023-04-17,Leipzig,Dortmund,2,3,16,18,59.4,40.6,1,1,0,0,Lose
+606,Bundesliga,2022-2023,2023-04-17,Frankfurt,Wolfsburg,2,1,19,10,34.6,65.4,1,1,0,0,Win
+607,Premier League,2022-2023,2023-04-18,Tottenham,Liverpool,1,2,16,11,30.0,70.0,0,0,0,0,Lose
+608,Bundesliga,2022-2023,2023-04-18,Leipzig,Bayern,0,3,13,19,46.4,53.6,1,0,0,0,Lose
+609,La Liga,2022-2023,2023-04-18,Atletico Madrid,Barcelona,1,0,17,12,50.1,49.9,0,0,0,0,Win
+610,Premier League,2022-2023,2023-04-19,Man United,Liverpool,0,1,14,8,52.6,47.4,0,2,0,0,Lose
+611,Premier League,2022-2023,2023-04-19,Arsenal,Tottenham,0,1,14,12,46.4,53.6,3,4,0,0,Lose
+612,Premier League,2022-2023,2023-04-20,Man City,Man United,4,0,17,14,64.9,35.1,1,0,0,0,Win
+613,Premier League,2022-2023,2023-04-20,Chelsea,Tottenham,0,2,9,15,62.5,37.5,1,0,0,0,Lose
+614,Bundesliga,2022-2023,2023-04-21,Wolfsburg,Bayern,3,0,17,5,58.7,41.3,1,0,0,0,Win
+615,Bundesliga,2022-2023,2023-04-21,Leipzig,Wolfsburg,0,1,7,17,37.8,62.2,2,0,0,0,Lose
+616,Premier League,2022-2023,2023-04-21,Chelsea,Liverpool,2,1,11,9,64.2,35.8,0,2,0,0,Win
+617,Premier League,2022-2023,2023-04-22,Arsenal,Tottenham,1,0,12,14,64.3,35.7,0,2,1,0,Win
+618,Bundesliga,2022-2023,2023-04-22,Wolfsburg,Dortmund,0,0,14,13,46.8,53.2,1,0,0,0,Draw
+619,Bundesliga,2022-2023,2023-04-23,Leverkusen,Bayern,6,3,32,17,54.0,46.0,0,1,0,0,Win
+620,La Liga,2022-2023,2023-04-23,Atletico Madrid,Barcelona,4,2,20,18,42.5,57.5,0,0,0,0,Win
+621,La Liga,2022-2023,2023-04-24,Valencia,Atletico Madrid,0,0,11,14,70.0,30.0,1,2,0,0,Draw
+622,Bundesliga,2022-2023,2023-04-24,Leverkusen,Dortmund,1,0,15,13,45.3,54.7,0,0,0,0,Win
+623,Bundesliga,2022-2023,2023-04-24,Dortmund,Leipzig,4,2,18,13,31.5,68.5,0,1,0,0,Win
+624,La Liga,2022-2023,2023-04-25,Barcelona,Atletico Madrid,1,3,16,16,47.2,52.8,4,0,0,0,Lose
+625,Bundesliga,2022-2023,2023-04-25,Wolfsburg,Leverkusen,1,1,14,17,60.4,39.6,1,0,0,0,Draw
+626,La Liga,2022-2023,2023-04-26,Atletico Madrid,Sevilla,3,2,22,13,45.5,54.5,1,2,0,0,Win
+627,Bundesliga,2022-2023,2023-04-26,Wolfsburg,Leverkusen,1,1,13,12,46.0,54.0,1,0,0,0,Draw
+628,Premier League,2022-2023,2023-04-27,Arsenal,Chelsea,1,3,9,20,49.6,50.4,4,1,0,0,Lose
+629,Premier League,2022-2023,2023-04-27,Man United,Man City,3,2,16,16,52.6,47.4,1,1,0,0,Win
+630,Bundesliga,2022-2023,2023-04-27,Leverkusen,Leipzig,0,1,9,14,54.8,45.2,1,1,0,0,Lose
+631,Bundesliga,2022-2023,2023-04-28,Bayern,Wolfsburg,3,1,14,16,51.6,48.4,3,1,0,1,Win
+632,Premier League,2022-2023,2023-04-28,Man United,Man City,4,0,25,9,60.7,39.3,2,1,0,0,Win
+633,Premier League,2022-2023,2023-04-29,Man United,Liverpool,1,2,15,19,64.3,35.7,1,0,0,0,Lose
+634,Bundesliga,2022-2023,2023-04-29,Dortmund,Leverkusen,4,1,20,14,52.8,47.2,1,1,0,0,Win
+635,Premier League,2022-2023,2023-04-30,Arsenal,Liverpool,2,3,19,18,60.3,39.7,0,0,0,0,Lose
+636,La Liga,2022-2023,2023-04-30,Real Madrid,Sevilla,0,2,6,13,56.5,43.5,1,0,0,0,Lose
+637,Premier League,2022-2023,2023-04-30,Liverpool,Chelsea,0,0,7,13,46.4,53.6,2,0,0,0,Draw
+638,La Liga,2022-2023,2023-05-01,Barcelona,Sevilla,2,1,11,13,53.0,47.0,1,2,0,0,Win
+639,Premier League,2022-2023,2023-05-01,Man United,Arsenal,1,1,16,14,47.5,52.5,2,0,0,1,Draw
+640,Premier League,2022-2023,2023-05-02,Man United,Man City,0,2,6,19,46.3,53.7,1,2,0,0,Lose
+641,Bundesliga,2022-2023,2023-05-02,Frankfurt,Leipzig,2,1,20,15,33.6,66.4,0,1,0,0,Win
+642,Premier League,2022-2023,2023-05-03,Arsenal,Man City,1,0,10,14,44.5,55.5,0,1,0,0,Win
+643,La Liga,2022-2023,2023-05-03,Sevilla,Barcelona,0,0,6,7,54.8,45.2,0,0,0,0,Draw
+644,Bundesliga,2022-2023,2023-05-03,Leverkusen,Frankfurt,1,0,17,7,39.7,60.3,2,0,0,0,Win
+645,Bundesliga,2022-2023,2023-05-04,Bayern,Frankfurt,1,1,13,14,43.6,56.4,1,0,0,0,Draw
+646,Premier League,2022-2023,2023-05-04,Man United,Arsenal,3,3,22,14,44.3,55.7,0,2,0,0,Draw
+647,Premier League,2022-2023,2023-05-05,Chelsea,Tottenham,2,3,15,22,55.4,44.6,4,1,0,0,Lose
+648,Bundesliga,2022-2023,2023-05-05,Leverkusen,Bayern,0,3,6,22,59.5,40.5,0,1,0,0,Lose
+649,La Liga,2022-2023,2023-05-06,Barcelona,Atletico Madrid,1,0,16,8,48.8,51.2,3,2,0,0,Win
+650,Premier League,2022-2023,2023-05-06,Man City,Arsenal,3,1,17,17,66.1,33.9,1,0,0,0,Win
+651,La Liga,2022-2023,2023-05-06,Villarreal,Valencia,3,2,18,19,59.2,40.8,0,1,0,0,Win
+652,La Liga,2022-2023,2023-05-07,Real Madrid,Villarreal,1,0,12,7,42.5,57.5,2,0,0,0,Win
+653,La Liga,2022-2023,2023-05-07,Valencia,Villarreal,1,1,10,15,40.8,59.2,2,0,0,0,Draw
+654,Premier League,2022-2023,2023-05-08,Tottenham,Chelsea,2,0,11,5,45.8,54.2,2,1,0,1,Win
+655,Bundesliga,2022-2023,2023-05-08,Dortmund,Frankfurt,0,0,10,10,60.1,39.9,0,1,0,0,Draw
+656,La Liga,2022-2023,2023-05-09,Sevilla,Real Madrid,3,1,18,8,36.7,63.3,0,0,0,0,Win
+657,Bundesliga,2022-2023,2023-05-09,Leipzig,Dortmund,0,0,9,7,52.5,47.5,1,1,0,0,Draw
+658,Bundesliga,2022-2023,2023-05-09,Leverkusen,Dortmund,2,1,17,17,50.1,49.9,4,0,0,0,Win
+659,Bundesliga,2022-2023,2023-05-10,Frankfurt,Bayern,2,0,17,14,38.7,61.3,0,1,0,0,Win
+660,Bundesliga,2022-2023,2023-05-10,Leipzig,Bayern,4,0,20,6,35.1,64.9,0,1,0,0,Win
+661,Bundesliga,2022-2023,2023-05-11,Wolfsburg,Frankfurt,0,2,6,14,55.9,44.1,2,3,0,0,Lose
+662,Bundesliga,2022-2023,2023-05-11,Wolfsburg,Bayern,0,1,5,10,64.2,35.8,0,3,0,0,Lose
+663,La Liga,2022-2023,2023-05-12,Sevilla,Real Madrid,2,0,14,11,55.0,45.0,2,1,0,0,Win
+664,Bundesliga,2022-2023,2023-05-12,Leverkusen,Leipzig,3,3,17,14,40.2,59.8,0,1,0,0,Draw
+665,La Liga,2022-2023,2023-05-12,Villarreal,Real Madrid,1,3,16,23,51.5,48.5,0,1,0,0,Lose
+666,La Liga,2022-2023,2023-05-13,Real Madrid,Atletico Madrid,1,0,11,10,64.0,36.0,1,0,0,0,Win
+667,Premier League,2022-2023,2023-05-13,Tottenham,Man City,2,3,13,14,63.8,36.2,1,0,1,0,Lose
+668,Bundesliga,2022-2023,2023-05-14,Frankfurt,Leipzig,1,0,9,5,61.0,39.0,1,0,0,0,Win
+669,Premier League,2022-2023,2023-05-14,Man City,Man United,2,1,11,8,47.8,52.2,0,1,0,0,Win
+670,Bundesliga,2022-2023,2023-05-15,Leipzig,Dortmund,2,1,14,15,48.7,51.3,0,2,0,0,Win
+671,Bundesliga,2022-2023,2023-05-15,Leverkusen,Frankfurt,3,2,21,15,45.2,54.8,1,3,0,0,Win
+672,Bundesliga,2022-2023,2023-05-15,Dortmund,Frankfurt,3,0,20,7,49.6,50.4,3,1,0,0,Win
+673,Premier League,2022-2023,2023-05-16,Tottenham,Liverpool,0,0,6,5,45.3,54.7,1,3,0,0,Draw
+674,Premier League,2022-2023,2023-05-16,Man United,Arsenal,1,1,12,16,65.3,34.7,2,1,0,0,Draw
+675,Premier League,2022-2023,2023-05-17,Arsenal,Man City,3,0,20,10,61.9,38.1,1,1,0,0,Win
+676,La Liga,2022-2023,2023-05-17,Atletico Madrid,Valencia,1,3,10,14,31.1,68.9,1,1,0,0,Lose
+677,La Liga,2022-2023,2023-05-18,Valencia,Sevilla,1,5,14,23,52.3,47.7,2,2,0,0,Lose
+678,La Liga,2022-2023,2023-05-18,Real Madrid,Barcelona,3,0,19,7,33.6,66.4,1,0,0,0,Win
+679,La Liga,2022-2023,2023-05-18,Atletico Madrid,Real Madrid,0,3,14,18,38.9,61.1,1,1,0,0,Lose
+680,Bundesliga,2022-2023,2023-05-19,Leipzig,Frankfurt,1,1,11,14,42.3,57.7,1,2,0,0,Draw
+681,Premier League,2022-2023,2023-05-19,Man United,Liverpool,1,0,16,13,53.4,46.6,3,3,0,0,Win
+682,La Liga,2022-2023,2023-05-20,Villarreal,Sevilla,1,3,14,17,42.6,57.4,1,1,0,0,Lose
+683,La Liga,2022-2023,2023-05-20,Atletico Madrid,Barcelona,4,1,22,15,34.0,66.0,2,1,0,0,Win
+684,La Liga,2022-2023,2023-05-21,Villarreal,Sevilla,2,0,19,14,46.9,53.1,0,1,0,0,Win
+685,La Liga,2022-2023,2023-05-21,Valencia,Atletico Madrid,0,1,9,9,60.9,39.1,1,2,0,0,Lose
+686,Premier League,2022-2023,2023-05-21,Tottenham,Liverpool,0,1,7,17,60.7,39.3,0,0,0,0,Lose
+687,Premier League,2022-2023,2023-05-22,Liverpool,Chelsea,2,2,15,15,45.5,54.5,0,1,0,0,Draw
+688,Premier League,2022-2023,2023-05-22,Chelsea,Man United,1,1,13,11,42.4,57.6,2,3,0,0,Draw
+689,La Liga,2022-2023,2023-05-23,Real Madrid,Villarreal,2,6,14,23,62.1,37.9,2,0,0,0,Lose
+690,La Liga,2022-2023,2023-05-23,Villarreal,Atletico Madrid,1,1,16,17,49.8,50.2,1,1,0,0,Draw
+691,La Liga,2022-2023,2023-05-24,Sevilla,Valencia,0,2,10,11,38.3,61.7,2,1,0,0,Lose
+692,Bundesliga,2022-2023,2023-05-24,Leverkusen,Dortmund,2,2,14,11,34.9,65.1,0,1,0,0,Draw
+693,Bundesliga,2022-2023,2023-05-24,Leverkusen,Leipzig,2,1,16,15,42.0,58.0,0,2,0,0,Win
+694,La Liga,2022-2023,2023-05-25,Real Madrid,Atletico Madrid,1,1,14,15,56.0,44.0,1,2,0,0,Draw
+695,Bundesliga,2022-2023,2023-05-25,Leverkusen,Leipzig,0,0,7,13,31.2,68.8,3,1,0,1,Draw
+696,Bundesliga,2022-2023,2023-05-26,Bayern,Frankfurt,1,1,13,8,61.8,38.2,0,1,0,0,Draw
+697,Bundesliga,2022-2023,2023-05-26,Frankfurt,Leverkusen,0,1,5,12,51.3,48.7,0,1,0,0,Lose
+698,La Liga,2022-2023,2023-05-27,Valencia,Barcelona,3,1,21,14,44.1,55.9,1,1,1,0,Win
+699,Premier League,2022-2023,2023-05-27,Arsenal,Chelsea,1,0,14,13,55.1,44.9,1,0,0,0,Win
+700,Bundesliga,2022-2023,2023-05-28,Leverkusen,Bayern,1,1,16,17,34.1,65.9,0,0,0,0,Draw
