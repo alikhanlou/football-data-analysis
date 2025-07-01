@@ -109,7 +109,7 @@ print(team_summary)
 team_summary["total_points"] = team_summary["home_points"]
 plt.figure(figsize=(10,6))
 sns.barplot(x=team_summary["total_points"], y=team_summary.index)
-plt.title("Team Ranking by Points")
+plt.title("Team Ranking by Points (Home)")
 plt.xlabel("Points")
 plt.ylabel("Team")
 plt.tight_layout()
