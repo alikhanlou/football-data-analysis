@@ -1,0 +1,17 @@
+Random Forest Model Evaluation
+
+Confusion Matrix:
+[[13  5 26]
+ [ 7  7 19]
+ [27  8 28]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          -1       0.28      0.30      0.29        44
+           0       0.35      0.21      0.26        33
+           1       0.38      0.44      0.41        63
+
+    accuracy                           0.34       140
+   macro avg       0.34      0.32      0.32       140
+weighted avg       0.34      0.34      0.34       140
