@@ -41,8 +41,8 @@ The repository contains three football-related data analysis projects, covering 
 ## 🚀 How to Use
 
 Each project has its own README file with detailed instructions:
-- [Player Analysis Project](player_analysis/README.md)
-- [Team Analysis Project](team_analysis/README.md)
+- [Player Analysis Project](player_analysis_project/README.md)
+- [Team Analysis Project](team_analysis_project/README.md)
 - [Football Dashboard](football_dashboard/README.md)
 
 
