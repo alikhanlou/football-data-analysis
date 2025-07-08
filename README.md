@@ -8,13 +8,13 @@ The repository contains three football-related data analysis projects, covering 
 
 ## 📂 Projects
 
-- [**Player Analysis Project**](player_analysis_project/README.md)  
+- [**Player Analysis Project**](https://github.com/alikhanlou/football-data-analysis/tree/main/player_analysis_project)  
   Analyze and score players based on performance data (e.g., goals, assists, minutes played). Includes visualizations and a model that shows feature importance.
 
-- [**Team Analysis Project**](team_analysis_project/README.md)  
+- [**Team Analysis Project**](https://github.com/alikhanlou/football-data-analysis/tree/main/team_analysis_project)  
   Analyze team performances from 700 match results across Premier League, La Liga, and Bundesliga. Includes statistical summaries, visualizations, and a predictive model for match outcomes.
 
-- [**Football Dashboard**](football_dashboard/README.md)  
+- [**Football Dashboard**](https://github.com/alikhanlou/football-data-analysis/tree/main/football_dashboard)  
   Interactive dashboard (Streamlit app) that allows users to explore team statistics and save visualizations for any selected team.
 
 
@@ -41,14 +41,10 @@ The repository contains three football-related data analysis projects, covering 
 ## 🚀 How to Use
 
 Each project has its own README file with detailed instructions:
-<<<<<<< HEAD
-- [Player Analysis Project](player_analysis/README.md)
-- [Team Analysis Project](team_analysis/README.md)
-=======
-- [Player Analysis Project](player_analysis_project/README.md)
-- [Team Analysis Project](team_analysis_project/README.md)
->>>>>>> 2b4cba515d752209d8e8a1dc8417e56b5f800cf4
-- [Football Dashboard](football_dashboard/README.md)
+
+- [Player Analysis Project](https://github.com/alikhanlou/football-data-analysis/blob/main/player_analysis_project/README.md)
+- [Team Analysis Project](https://github.com/alikhanlou/football-data-analysis/blob/main/team_analysis_project/README.md)
+- [Football Dashboard](https://github.com/alikhanlou/football-data-analysis/blob/main/football_dashboard/README.md)
 
 
 ## 👤 Author
